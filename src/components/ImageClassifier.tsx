@@ -1,5 +1,5 @@
 /* eslint-disable jsx-a11y/alt-text */
-import React from "react";
+import React, { useState } from "react";
 import * as mobilenet from "@tensorflow-models/mobilenet";
 import * as tf from "@tensorflow/tfjs";
 
@@ -33,10 +33,13 @@ const ImageClassifier = () => {
   React.useEffect(() => {
     run();
   });
-
+  const [test, set_test] = useState("100px");
+  setTimeout(() => {
+    set_test("200px");
+  }, 2000);
   return (
     <>
-      <video autoPlay playsInline muted={true} ref={camera} width="500px" height="500px" />
+      <video autoPlay playsInline muted={true} ref={camera} width={test} height={test} />
       <div ref={figures}></div>
     </>
   );
