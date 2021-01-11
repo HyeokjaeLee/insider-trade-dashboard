@@ -1,21 +1,22 @@
-import React from "react";
-import logo from "./logo.svg";
+import React, { useState } from "react";
 import "./App.css";
-import ImageClassifier from "./components/ImageClassifier";
+import Insider_trade_info from "./components/insider_trade_info";
+import { Info_selector } from "./components/info_selector";
+import { get_json_data, get_IEX_data } from "./modules/base_modules";
+import type { A_trade_data } from "./modules/base_modules";
+const data_url = "https://toy-projects-api.herokuapp.com/tradeinfo";
+const data: A_trade_data[] = get_json_data(data_url);
 
 function App() {
+  const [test, set_test] = useState(get_IEX_data("WRLD"));
+  let test2 = String(test);
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-          <ImageClassifier></ImageClassifier>
-        </a>
-      </header>
-    </div>
+    <>
+      <div className="body">
+        {test2}
+        <Info_selector data={data} />
+      </div>
+    </>
   );
 }
 

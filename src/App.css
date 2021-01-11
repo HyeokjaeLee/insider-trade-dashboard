@@ -15,13 +15,6 @@
 
 .App-header {
   background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
 }
 
 .App-link {
@@ -35,4 +28,18 @@
   to {
     transform: rotate(360deg);
   }
+}
+.body {
+  font-family: "main_font";
+  background-color: #815854;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  color: #02343f;
+  font-size: calc(10px + 2vmin);
+  width: 100%;
+  overflow: hidden;
+}
+li {
+  list-style: none;
 }
