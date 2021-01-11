@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/style-search/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/style-search/static/js/main.c474d4bb.chunk.js",
-    "main.js.map": "/style-search/static/js/main.c474d4bb.chunk.js.map",
-    "runtime-main.js": "/style-search/static/js/runtime-main.c8a74b53.js",
-    "runtime-main.js.map": "/style-search/static/js/runtime-main.c8a74b53.js.map",
-    "static/js/2.98014079.chunk.js": "/style-search/static/js/2.98014079.chunk.js",
-    "static/js/2.98014079.chunk.js.map": "/style-search/static/js/2.98014079.chunk.js.map",
-    "static/js/3.032a13ed.chunk.js": "/style-search/static/js/3.032a13ed.chunk.js",
-    "static/js/3.032a13ed.chunk.js.map": "/style-search/static/js/3.032a13ed.chunk.js.map",
-    "index.html": "/style-search/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/style-search/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.98014079.chunk.js.LICENSE.txt": "/style-search/static/js/2.98014079.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/style-search/static/media/logo.6ce24c58.svg"
+    "main.css": "/insider-trade-dashboard/static/css/main.80a9679f.chunk.css",
+    "main.js": "/insider-trade-dashboard/static/js/main.3ee9e0aa.chunk.js",
+    "main.js.map": "/insider-trade-dashboard/static/js/main.3ee9e0aa.chunk.js.map",
+    "runtime-main.js": "/insider-trade-dashboard/static/js/runtime-main.429817bb.js",
+    "runtime-main.js.map": "/insider-trade-dashboard/static/js/runtime-main.429817bb.js.map",
+    "static/css/2.5cd7b5f8.chunk.css": "/insider-trade-dashboard/static/css/2.5cd7b5f8.chunk.css",
+    "static/js/2.24a967ef.chunk.js": "/insider-trade-dashboard/static/js/2.24a967ef.chunk.js",
+    "static/js/2.24a967ef.chunk.js.map": "/insider-trade-dashboard/static/js/2.24a967ef.chunk.js.map",
+    "static/js/3.fc96e107.chunk.js": "/insider-trade-dashboard/static/js/3.fc96e107.chunk.js",
+    "static/js/3.fc96e107.chunk.js.map": "/insider-trade-dashboard/static/js/3.fc96e107.chunk.js.map",
+    "index.html": "/insider-trade-dashboard/index.html",
+    "static/css/2.5cd7b5f8.chunk.css.map": "/insider-trade-dashboard/static/css/2.5cd7b5f8.chunk.css.map",
+    "static/css/main.80a9679f.chunk.css.map": "/insider-trade-dashboard/static/css/main.80a9679f.chunk.css.map",
+    "static/js/2.24a967ef.chunk.js.LICENSE.txt": "/insider-trade-dashboard/static/js/2.24a967ef.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8a74b53.js",
-    "static/js/2.98014079.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.c474d4bb.chunk.js"
+    "static/js/runtime-main.429817bb.js",
+    "static/css/2.5cd7b5f8.chunk.css",
+    "static/js/2.24a967ef.chunk.js",
+    "static/css/main.80a9679f.chunk.css",
+    "static/js/main.3ee9e0aa.chunk.js"
   ]
 }
