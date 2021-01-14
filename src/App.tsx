@@ -4,7 +4,7 @@ import Insider_trade_info from "./components/insider_trade_info";
 import { Info_selector } from "./components/info_selector";
 import { get_json_data, get_IEX_data } from "./modules/base_modules";
 import type { A_trade_data } from "./modules/base_modules";
-const data_url = "https://toy-projects-api.herokuapp.com/tradeinfo";
+const data_url = "https://toy-projects-api.herokuapp.com/insidertrade/list";
 const data: A_trade_data[] = get_json_data(data_url);
 
 function App() {
