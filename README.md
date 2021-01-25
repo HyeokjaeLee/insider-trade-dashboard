@@ -3,7 +3,8 @@
   <img alt="Version" src="https://img.shields.io/badge/version-0.1.3-blue.svg?cacheSeconds=2592000" />
 </p>
 
-> AI predicts stock information based on insider trading information and showed to dashboards<br>
+> AI predicts stock information based on insider trading information<br>
+> and showed to dashboards
 > 내부자 거래정보를 통해 AI가 예측한 주식 정보를 대쉬보드에 보여줌<br>
 
 ### [✨ Demo](https://hyeokjaelee.github.io/insider-trade-dashboard)
