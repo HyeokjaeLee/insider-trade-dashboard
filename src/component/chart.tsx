@@ -11,9 +11,10 @@ const Chart = (props: any) => {
   const [data, set_data] = useState<any>(price_data);
   //price.push(trade_data.price);
   //date.push(trade_date);
+  console.log(data);
   const options = {
     chart: {
-      type: "line", // bar차트. 아무 설정이 없으면 line chart가 된다.
+      type: "line",
       inverted: false,
       scrollablePlotArea: {
         minWidth: 4000,
