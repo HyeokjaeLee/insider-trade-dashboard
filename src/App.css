@@ -12,11 +12,43 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
-.App-header {
-  background-color: #282c34;
+::-webkit-scrollbar {
+  display: none;
 }
-
+.stock_list_container {
+  height: 100vh;
+  width: 20%;
+  overflow: scroll;
+  float: left;
+  padding-right: 10px;
+}
+.body_div {
+  background-color: #282c34;
+  height: 100vh;
+  color: #02343f;
+  font-size: calc(10px + 2vmin);
+  width: 100%;
+}
+.chart {
+  padding: 50px;
+  width: auto;
+  height: auto;
+  background-color: white;
+  border-radius: 10px;
+  width: 90%;
+}
+.chart_container {
+  display: flex;
+  width: 80%;
+  float: left;
+}
+ul {
+  list-style: none;
+  -webkit-padding-start: 0px;
+}
+li {
+  text-align: left;
+}
 .App-link {
   color: #61dafb;
 }
@@ -28,18 +60,4 @@
   to {
     transform: rotate(360deg);
   }
-}
-.body {
-  font-family: "main_font";
-  background-color: #815854;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  color: #02343f;
-  font-size: calc(10px + 2vmin);
-  width: 100%;
-  overflow: hidden;
-}
-li {
-  list-style: none;
 }
