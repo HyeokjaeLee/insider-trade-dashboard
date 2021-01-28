@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<!--<script type="text/javascript">
+    var xhr;
+    function func(){
+         xhr = new XMLHttpRequest();
+         xhr.open("GET", "C:/Users/User/data.csv", true);
+         xhr.onreadystatechange = function(){
+              if(xhr.readyState == 4){
+                  if(xhr.status== 200){
+                       process();
+                  }else{
+                       alert("요청 실패: " + xhr.status);
+                  }    
+              }
+         }
+         xhr.send(null);
+    }
+    function process(){
+         var datas = xhr.responseText;
+         var rowData = datas.split('n'); //행은 cr로 구분 (String.fromCharCode(13))
+         str ="";
+         for(var i=0; i < rowData.length; i++){
+              var colData = rowData[i].split(","); //열은 ,로 구분
+              for(var j=0; j < colData.length; j++){
+                  str += colData[j] + " ";
+              }
+              str += "<br>";
+         }
+         document.getElementById("disp").innerHTML = str;
+    }
+    </script> -->
+    
+    
+    
+<body>
+    <!-- 상품자료 읽기(csv)<br>
+    <button onclick="func()">읽기</button>
+    <hr>
+    <div id ="disp"></div> -->
+   
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+    <script src="./load_csv11.js"></script>
+</body>
+    
+    
+
+</html>

@@ -1,0 +1,945 @@
+Trade Date,Ticker,Company Name,Insider Name,Price,Qty,Owned,Value,Value (now),Trade date-today,ratio
+2021-01-08,ALRN,Aileron Therapeutics Inc,Satter Muneer A,1.1,9000000,"16,609,449","9,900,000",2,11,81.81818182
+2021-01-07,LGIQ,"Logiq, Inc.",Suen Brent,7.75,5000,"236,770","38,750",9.01,12,16.25806452
+2021-01-07,TPL,Texas Pacific Land Trust,Horizon Kinetics Asset Management LLC,778.68,44,"281,666","34,262",850.88,12,9.272101505
+2021-01-07,BSPK,"Bespoke Extracts, Inc.",Pollack Danil,0.02,5000000,"124,000,000","100,000",0.05,12,150
+2021-01-06,WRLD,World Acceptance Corp,Sosin Clifford,111.43,37900,"755,768","4,223,042",142.85,13,28.1970744
+2021-01-06,HOME,At Home Group Inc.,Sosin Clifford,17.55,275007,"11,078,735","4,825,685",22.88,13,30.37037037
+2021-01-06,EYEG,Eyegate Pharmaceuticals Inc,"Armistice Capital, LLC",5.22,1531101,"6,693,202","8,000,003",6.35,13,21.64750958
+2021-01-06,HHC,Howard Hughes Corp,"Pershing Square Capital Management, L.P.",79.12,2516846,"13,470,008","199,132,856",84.06,13,6.243680485
+2021-01-06,CNFN,Cfn Enterprises Inc.,Ross Brian S,0.04,625000,"8,535,000","25,000",0.07,13,75
+2021-01-06,REI,"Ring Energy, Inc.",Kruse William R,0.74,383800,"10,565,682","285,547",1.1,13,48.64864865
+2021-01-06,USIO,"Usio, Inc.",Jewell Lowell Thomas,3.25,11860,"483,583","38,545",3.14,13,-3.384615385
+2021-01-06,PRGO,Perrigo Co Plc,Sorota Richard S,43.48,7513,"7,513","326,665",44.72,13,2.851885925
+2021-01-06,TPL,Texas Pacific Land Trust,Horizon Kinetics Asset Management LLC,793.02,44,"281,622","34,893",850.88,13,7.296158987
+2021-01-06,GEF,"Greif, Inc",Hilsheimer Lawrence A.,53.08,4900,"159,129","260,110",50.52,13,-4.822908817
+2021-01-06,CLSD,"Clearside Biomedical, Inc.",Whitmore Bradford T,2.85,350750,"6,365,186","999,988",4.22,13,48.07017544
+2021-01-05,WRLD,World Acceptance Corp,Sosin Clifford,107.53,4600,"717,868","494,653",142.85,14,32.84664745
+2021-01-05,HOME,At Home Group Inc.,Sosin Clifford,16.37,169993,"10,803,728","2,783,108",22.88,14,39.76786805
+2021-01-05,PRTY,Party City Holdco Inc.,Sosin Clifford,6.63,316500,"15,986,623","2,099,471",7.12,14,7.390648567
+2021-01-05,ESOA,Energy Services of America Corp,Pratt Brian,1.15,429727,"1,794,813","494,423",2.28,14,98.26086957
+2021-01-05,AUB,Atlantic Union Bankshares Corp,Ellett Frank Russell,32.82,1000,"12,708","32,822",36.6,14,11.51736746
+2021-01-05,AAIC,Arlington Asset Investment Corp.,Tonkel J Rock Jr,3.86,20000,"568,326","77,170",3.93,14,1.813471503
+2021-01-05,REI,"Ring Energy, Inc.",Kruse William R,0.71,131200,"10,181,882","93,021",1.1,14,54.92957746
+2021-01-05,TPL,Texas Pacific Land Trust,Horizon Kinetics Asset Management LLC,795,44,"281,578","34,980",850.88,14,7.028930818
+2021-01-05,GEF,"Greif, Inc",Hilsheimer Lawrence A.,49.86,4900,"159,229","244,300",50.52,14,1.323706378
+2021-01-04,WRLD,World Acceptance Corp,Sosin Clifford,104.28,5500,"713,268","573,533",142.85,15,36.98695819
+2021-01-04,HOME,At Home Group Inc.,Sosin Clifford,15.68,200000,"10,633,735","3,136,540",22.88,15,45.91836735
+2021-01-04,PRTY,Party City Holdco Inc.,Sosin Clifford,6.11,406500,"15,670,123","2,482,130",7.12,15,16.53027823
+2021-01-04,CQP,"Cheniere Energy Partners, L.P.",Bx Rockies Platform Co LLC,34.93,42425,"203,409,509","1,481,905",38.5,15,10.22044088
+2021-01-04,CQP,"Cheniere Energy Partners, L.P.",Blackstone Holdings III L.P.,34.93,42425,"203,409,509","1,481,905",38.5,15,10.22044088
+2021-01-04,MDWT,Midwest Holding Inc.,Minnich Michael,52.41,785,"415,961","41,142",56.51,15,7.822934554
+2021-01-04,MLVF,"Malvern Bancorp, Inc.",Scartozzi Stephen P,15.5,1712,"16,394","26,543",17.15,15,10.64516129
+2021-01-04,APRN,"Blue Apron Holdings, Inc.",Dph Holdings Ltd,5.63,8000,"1,830,535","45,040",7.27,15,29.12966252
+2021-01-04,FL,"Foot Locker, Inc.",Vesa Equity Investment S.A R.L.,39,8581,"12,938,925","334,659",48.47,15,24.28205128
+2021-01-04,FOLD,"Amicus Therapeutics, Inc.",Whitman Burke W,23.17,1500,"39,967","34,755",23.1,15,-0.302114804
+2021-01-04,CODI,Compass Diversified Holdings,McCoy Sarah Gaines,19.62,5079,"21,182","99,628",21.03,15,7.186544343
+2021-01-04,CODI,Compass Diversified Holdings,Ewing D Eugene,19.61,5079,"84,449","99,620",21.03,15,7.241203468
+2021-01-04,CODI,Compass Diversified Holdings,Enterline Larry L,19.62,5079,"8,976","99,637",21.03,15,7.186544343
+2021-01-04,CODI,Compass Diversified Holdings,Edwards Harold S,19.61,5079,"62,465","99,623",21.03,15,7.241203468
+2021-01-04,CODI,Compass Diversified Holdings,Day C Sean,19.61,6096,"621,213","119,563",21.03,15,7.241203468
+2021-01-04,CODI,Compass Diversified Holdings,Burns Gordon M,19.61,5079,"36,169","99,623",21.03,15,7.241203468
+2021-01-04,CODI,Compass Diversified Holdings,Bottiglieri James,19.62,5079,"74,143","99,633",21.03,15,7.186544343
+2021-01-04,TPL,Texas Pacific Land Trust,Horizon Kinetics Asset Management LLC,756.56,44,"281,534","33,289",850.88,15,12.46695569
+2021-01-01,NA,Cardinal Ethanol LLC,Dersch David Matthew Jr,5010,30,748,"150,300",73.22,18,-98.53852295
+2021-01-01,NA,Cardinal Ethanol LLC,Baker Robert Nathan,5000,24,"1,790","120,000",73.22,18,-98.5356
+2020-12-31,REI,"Ring Energy, Inc.",Kruse William R,0.67,619898,"10,050,682","412,407",1.1,19,64.17910448
+2020-12-31,PERS,Sandridge Permian Trust,"Montare Resources I, LLC",0.39,101003,"5,016,956","39,764",0.4,19,2.564102564
+2020-12-31,CQP,"Cheniere Energy Partners, L.P.",Bx Rockies Platform Co LLC,34.96,71532,"203,398,514","2,500,605",38.5,19,10.12585812
+2020-12-31,CQP,"Cheniere Energy Partners, L.P.",Blackstone Holdings III L.P.,34.96,71532,"203,398,514","2,500,605",38.5,19,10.12585812
+2020-12-31,DVCR,"Diversicare Healthcare Services, Inc.","Osmium Partners, LLC",3.05,138641,"746,742","423,497",4.2,19,37.70491803
+2020-12-31,MDVL,"Medavail Holdings, Inc.",Abg Wtt-Medavail Ltd,15,12670,"2,920,780","189,998",14.25,19,-5
+2020-12-31,GEF,"Greif, Inc",Hilsheimer Lawrence A.,49.24,4750,"159,329","233,912",50.52,19,2.599512591
+2020-12-31,BNED,"Barnes & Noble Education, Inc.",Levenick Zachary,4.73,20000,"145,000","94,600",5.54,19,17.12473573
+2020-12-31,AIRT,Air T Inc,Swenson Nicholas John,20.11,18617,"1,315,590","374,421",21.17,19,5.271009448
+2020-12-31,AIRT,Air T Inc,Cabillot Raymond E,20.11,18620,"453,545","374,481",21.17,19,5.271009448
+2020-12-31,XAIR,"Beyond Air, Inc.",Lisi Steven A.,5.28,38500,929,"203,280",6.44,19,21.96969697
+2020-12-30,ROOT,"Root, Inc.",Malka Meyer,16.55,753976,"1,753,976","12,477,184",21.5,20,29.90936556
+2020-12-30,GRTS,"Gritstone Oncology, Inc.",Woiwode Thomas,3.71,1347709,"4,450,638","5,000,000",5.98,20,61.18598383
+2020-12-30,PBFX,Pbf Logistics LP,Control Empresarial De Capitales S.A. De C.V.,8.79,12500,"7,232,858","109,828",10.49,20,19.34015927
+2020-12-30,AUB,Atlantic Union Bankshares Corp,Ellett Frank Russell,32.66,3000,"11,708","97,980",36.6,20,12.06368647
+2020-12-30,CSV,Carriage Services Inc,Schenck James Raymond,31.08,1000,"23,012","31,080",33.69,20,8.397683398
+2020-12-30,MCHX,Marchex Inc,"Edenbrook Capital, LLC",1.75,40748,"12,005,206","71,105",2.39,20,36.57142857
+2020-12-30,NJMC,New Jersey Mining Co,Swallow John,0.12,250000,"16,987,373","30,000",0.25,20,108.3333333
+2020-12-30,NJMC,New Jersey Mining Co,Brackebusch Grant A,0.12,250000,"1,406,093","30,000",0.25,20,108.3333333
+2020-12-30,KFS,Kingsway Financial Services Inc,Stilwell Joseph,4.72,25000,"2,302,262","118,096",4.89,20,3.601694915
+2020-12-30,IWSH,"Wright Investors Service Holdings, Inc.",Miller William H III,0.2,582938,"3,453,338","116,588",0.27,20,35
+2020-12-30,CQP,"Cheniere Energy Partners, L.P.",Blackstone Holdings II L.P.,33.98,73359,"203,379,976","2,492,755",38.5,20,13.30194232
+2020-12-30,CQP,"Cheniere Energy Partners, L.P.",Bx Rockies Platform Co LLC,33.98,73359,"203,379,976","2,492,755",38.5,20,13.30194232
+2020-12-30,USIO,"Usio, Inc.","Topline Capital Management, LLC",1.32,100000,"3,475,000","131,750",3.14,20,137.8787879
+2020-12-30,USIO,"Usio, Inc.","Topline Capital Partners, LP",1.32,100000,"3,475,000","131,750",3.14,20,137.8787879
+2020-12-30,GEF,"Greif, Inc",Hilsheimer Lawrence A.,49.29,4750,"159,579","234,120",50.52,20,2.49543518
+2020-12-30,KR,Kroger Co,Sargent Ronald,31.65,3200,"116,520","101,280",33.15,20,4.739336493
+2020-12-30,IWSH,"Wright Investors Service Holdings, Inc.",Eisen Harvey P,0.2,582500,"6,093,669","116,500",0.27,20,35
+2020-12-30,FCBP,First Choice Bancorp,Pranav Pravin,18.35,2530,"190,060","46,420",19.61,20,6.866485014
+2020-12-30,ALTA,Altabancorp,Brett & Susan Christiansen Family Trust,27.47,2200,"64,484","60,432",30.96,20,12.70476884
+2020-12-30,BFGC,Bullfrog Gold Corp.,Augusta Investments Inc.,0.23,6500000,"110,750,000","1,495,000",0.34,20,47.82608696
+2020-12-30,TCON,"Tracon Pharmaceuticals, Inc.","Ikarian Capital, LLC",9.61,520291,"2,716,840","4,999,997",10.97,20,14.15192508
+2020-12-29,AIRT,Air T Inc,Kohler Gary S,19.06,2000,"14,069","38,120",21.17,21,11.0703043
+2020-12-29,AIRT,Air T Inc,Kohler Gary S,19.06,38125,"2,000","726,654",21.17,21,11.0703043
+2020-12-29,HOFV,Hall of Fame Resort & Entertainment Co,Lichter Stuart,1.4,10813774,"30,256,216","15,139,284",1.87,21,33.57142857
+2020-12-29,ODT,"Odonate Therapeutics, Inc.",Johnson Craig A,17,3000,"3,000","51,000",20.11,21,18.29411765
+2020-12-29,AIRT,Air T Inc,Cabillot Raymond E,19.29,38682,"434,925","746,080",21.17,21,9.745982374
+2020-12-29,AIRT,Air T Inc,Swenson Nicholas John,19.12,34910,"1,296,973","667,638",21.17,21,10.72175732
+2020-12-29,DNMR,"Danimer Scientific, Inc.",Wunderlich Gary Kent Jr,10,4905000,"5,000,000","49,050,000",27.4,21,174
+2020-12-29,DNMR,"Danimer Scientific, Inc.",Hendrix Richard J,10,4905000,"5,000,000","49,050,000",27.4,21,174
+2020-12-29,CNFR,"Conifer Holdings, Inc.",Williams R Jamison Jr,2.62,10000,"405,458","26,200",3.11,21,18.70229008
+2020-12-29,UTL,Unitil Corp,Meissner Thomas P Jr,43,1000,"67,318","42,998",43.21,21,0.488372093
+2020-12-29,SPLP,Steel Partners Holdings L.P.,Lichtenstein Warren G,9.1,114700,"10,157,926","1,043,644",12.5,21,37.36263736
+2020-12-28,AHNR,Athena Silver Corp,Power John C /ca/,0.03,1630000,"12,275,000","48,900",0.07,22,133.3333333
+2020-12-28,CNBKA,Century Bancorp Inc,Filler James J,77.38,928,"857,373","71,806",79.25,22,2.416645128
+2020-12-28,FCBP,First Choice Bancorp,Hui Peter,18.14,11086,"817,642","201,060",19.61,22,8.103638368
+2020-12-28,FCBP,First Choice Bancorp,Thong Phillip,18.28,1791,"132,729","32,732",19.61,22,7.27571116
+2020-12-28,FCBP,First Choice Bancorp,Bhakta Roshan,18.15,1691,"126,152","30,693",19.61,22,8.044077135
+2020-12-28,PERS,Sandridge Permian Trust,"Montare Resources I, LLC",0.39,518233,"4,915,953","203,259",0.4,22,2.564102564
+2020-12-28,ODT,"Odonate Therapeutics, Inc.","Boxer Capital, LLC",17.16,400000,"5,607,086","6,863,428",20.11,22,17.19114219
+2020-12-28,ODT,"Odonate Therapeutics, Inc.",Davis Aaron I.,17.16,400000,"6,252,842","6,863,428",20.11,22,17.19114219
+2020-12-28,PBF,Pbf Energy Inc.,Control Empresarial De Capitales S.A. De C.V.,6.87,40000,"23,860,183","274,696",8.14,22,18.48617176
+2020-12-28,IEP,Icahn Enterprises L.P.,Krongard A B,51.01,19285,"36,008","983,635",56.47,22,10.70378357
+2020-12-28,PBFX,Pbf Logistics LP,Control Empresarial De Capitales S.A. De C.V.,8.65,14300,"7,220,358","123,756",10.49,22,21.2716763
+2020-12-28,CLR,"Continental Resources, Inc",Taylor Timothy Garth,17,5917,"46,743","100,603",19.47,22,14.52941176
+2020-12-28,MDVL,"Medavail Holdings, Inc.",Abg Wtt-Medavail Ltd,13.98,7207,"2,915,053","100,732",14.25,22,1.931330472
+2020-12-28,UIHC,United Insurance Holdings Corp.,Hogan Michael,5.95,10000,"178,754","59,500",5.72,22,-3.865546218
+2020-12-28,KFS,Kingsway Financial Services Inc,Stilwell Joseph,4.66,21432,"2,299,762","99,835",4.89,22,4.935622318
+2020-12-28,GEF,"Greif, Inc",Hilsheimer Lawrence A.,49.55,9500,"159,829","470,722",50.52,22,1.957618567
+2020-12-28,GTIM,Good Times Restaurants Inc.,Zink Ryan M,2.89,19888,"109,507","57,495",3.06,22,5.882352941
+2020-12-28,ACNB,Acnb Corp,Sites David L,24.94,2964,"38,929","73,932",26.27,22,5.332798717
+2020-12-28,NSYS,Nortech Systems Inc,Jones Christopher Dean,6.23,14636,"19,197","91,188",8.11,22,30.17656501
+2020-12-28,TPHS,Trinity Place Holdings Inc.,"Messinger, Matthew",1,26113,"1,311,869","26,113",1.43,22,43
+2020-12-28,OPK,"Opko Health, Inc.",Frost Phillip Md Et Al,4,300000,"224,567,822","1,199,500",4.62,22,15.5
+2020-12-28,CLRB,"Cellectar Biosciences, Inc.",Caruso James V,1.35,37037,"81,301","50,000",2.07,22,53.33333333
+2020-12-28,CLRB,"Cellectar Biosciences, Inc.",Longcor Jarrod,1.35,29630,"102,148","40,001",2.07,22,53.33333333
+2020-12-24,SPLP,Steel Partners Holdings L.P.,Howard Jack L,9.12,79600,"4,453,956","725,928",12.5,26,37.06140351
+2020-12-24,AUB,Atlantic Union Bankshares Corp,Ellett Frank Russell,32.84,3000,"8,708","98,522",36.6,26,11.44945189
+2020-12-24,NHLD,National Holdings Corp,Asher Daniel,2.69,18458,"3,027,841","49,599",3.32,26,23.42007435
+2020-12-24,CLSD,"Clearside Biomedical, Inc.",Whitmore Bradford T,1.95,51195,"6,014,436","99,897",4.22,26,116.4102564
+2020-12-23,SPLP,Steel Partners Holdings L.P.,Karros Eric P.,9.17,21695,"32,983","198,850",12.5,27,36.31406761
+2020-12-23,BNED,"Barnes & Noble Education, Inc.",Levenick Zachary,4.78,25000,"125,000","119,500",5.54,27,15.89958159
+2020-12-23,IQV,Iqvia Holdings Inc.,Danhakl John G,176.95,63451,"37,410","11,227,654",187.92,27,6.199491382
+2020-12-23,MIRM,"Mirum Pharmaceuticals, Inc.",Clements Ian,18.61,2470,"7,841","45,975",18.54,27,-0.376141859
+2020-12-23,FNF,"Fidelity National Financial, Inc.",Rood John D,38.45,29100,"181,434","1,118,823",39.05,27,1.56046814
+2020-12-23,MIRM,"Mirum Pharmaceuticals, Inc.",Peetz Christopher,18.7,5000,"202,941","93,480",18.54,27,-0.855614973
+2020-12-23,UIHC,United Insurance Holdings Corp.,Hogan Michael,5.97,27000,"168,754","161,080",5.72,27,-4.18760469
+2020-12-23,SOFO,Sonic Foundry Inc,Mozden Joe Jr,3.11,12500,"12,500","38,875",4.4,27,41.47909968
+2020-12-23,SOFO,Sonic Foundry Inc,Boyd Kelsy L,3.11,10000,"10,000","31,100",4.4,27,41.47909968
+2020-12-23,KFS,Kingsway Financial Services Inc,Stilwell Joseph,4.6,10433,"2,297,618","48,036",4.89,27,6.304347826
+2020-12-23,NWFL,Norwood Financial Corp,Nolan Alexandra K,26.77,5000,"167,455","133,850",27.05,27,1.045946956
+2020-12-23,TPL,Texas Pacific Land Trust,Horizon Kinetics Asset Management LLC,695.42,40,"277,808","27,817",850.88,27,22.35483593
+2020-12-23,NANX,Nanophase Technologies Corp,Whitmore R Janet,0.75,50000,"2,987,019","37,500",0.89,27,18.66666667
+2020-12-23,GEF,"Greif, Inc",Hilsheimer Lawrence A.,49.29,10750,"160,329","529,838",50.52,27,2.49543518
+2020-12-22,MDVL,"Medavail Holdings, Inc.",Abg Wtt-Medavail Ltd,13.89,47538,"2,911,795","660,110",14.25,28,2.591792657
+2020-12-22,TCON,"Tracon Pharmaceuticals, Inc.",Opaleye Management Inc.,8.06,496277,"2,518,371","3,999,993",10.97,28,36.10421836
+2020-12-22,ACNB,Acnb Corp,Sites David L,25,1461,"35,965","36,525",26.27,28,5.08
+2020-12-22,MDWT,Midwest Holding Inc.,Minnich Michael W.,60.05,2000,"415,176","120,110",56.51,28,-5.895087427
+2020-12-22,CMPI,"Checkmate Pharmaceuticals, Inc.",Krieg Arthur M,14.64,5103,"935,918","74,708",13.8,28,-5.737704918
+2020-12-22,UIHC,United Insurance Holdings Corp.,Hudson Sherrill W,5.2,10000,"178,403","51,995",5.72,28,10
+2020-12-22,GEF,"Greif, Inc",Hilsheimer Lawrence A.,48.3,4400,"161,079","212,523",50.52,28,4.596273292
+2020-12-22,TURN,180 Degree Capital Corp. /ny/,Rendino Kevin,1.9,78769,"1,050,000","149,661",6.51,28,242.6315789
+2020-12-22,MASS,908 Devices Inc.,Hrusovsky E Kevin,20,50000,"379,675","1,000,000",61,28,205
+2020-12-22,MASS,908 Devices Inc.,Turner Michael S.,20,5000,"5,000","100,000",61,28,205
+2020-12-22,MASS,908 Devices Inc.,Kedar Sharon,20,100000,"1,077,091","2,000,000",61,28,205
+2020-12-22,MASS,908 Devices Inc.,"Arch Venture Fund Vii, L.P.",20,300000,"5,725,045","6,000,000",61,28,205
+2020-12-22,MASS,908 Devices Inc.,Basarsky Trent A.,20,5000,"5,000","100,000",61,28,205
+2020-12-22,MASS,908 Devices Inc.,Barthelemy Nicolas,20,14000,"33,541","280,000",61,28,205
+2020-12-22,MASS,908 Devices Inc.,Crandell Keith,20,300000,"5,725,045","6,000,000",61,28,205
+2020-12-22,JKHY,Henry Jack & Associates Inc,Wimsett Thomas A,156.35,8900,"32,841","1,391,500",153.92,28,-1.554205309
+2020-12-21,GOEV,Canoo Inc.,Hennessy Capital Partners IV LLC,10,500000,"500,000","5,000,000",17.45,29,74.5
+2020-12-21,KFS,Kingsway Financial Services Inc,Stilwell Joseph,4.59,10000,"2,296,575","45,891",4.89,29,6.535947712
+2020-12-21,GTIM,Good Times Restaurants Inc.,Zink Ryan M,2.18,12258,"89,619","26,722",3.06,29,40.36697248
+2020-12-21,VST,Vistra Corp.,Ferraioli Brian K,17.44,3000,"34,893","52,320",21.29,29,22.07568807
+2020-12-21,AUB,Atlantic Union Bankshares Corp,Ellett Frank Russell,32.06,3000,"5,708","96,173",36.6,29,14.16094822
+2020-12-21,ODT,"Odonate Therapeutics, Inc.",Tang Kevin C,15.16,275784,"15,514,566","4,181,208",20.11,29,32.65171504
+2020-12-21,COUP,Coupa Software Inc,Brennan Michelle,358.57,100,100,"35,857",342,29,-4.621133949
+2020-12-21,CLPR,Clipper Realty Inc.,Lorber Howard M,6.29,5369,"25,369","33,790",7.25,29,15.26232114
+2020-12-21,UIHC,United Insurance Holdings Corp.,Whittemore Kent G,5.19,5000,"304,845","25,950",5.72,29,10.21194605
+2020-12-21,UIHC,United Insurance Holdings Corp.,Hogan Michael,5.14,24009,"141,754","123,486",5.72,29,11.28404669
+2020-12-21,UIHC,United Insurance Holdings Corp.,Maroney Patrick,5.19,9400,"32,150","48,786",5.72,29,10.21194605
+2020-12-21,SCYX,Scynexis Inc,Tinmouth Brian Philippe,6.25,8000,"8,000","50,000",7.95,29,27.2
+2020-12-21,SCYX,Scynexis Inc,Taglietti Marco,6.25,40000,"109,668","250,000",7.95,29,27.2
+2020-12-21,SCYX,Scynexis Inc,Macdonald Guy,6.25,8000,"12,000","50,000",7.95,29,27.2
+2020-12-21,SCYX,Scynexis Inc,Gilman Steven C,6.25,4000,"4,000","25,000",7.95,29,27.2
+2020-12-21,SCYX,Scynexis Inc,Anido Armando,6.25,5000,"5,000","31,250",7.95,29,27.2
+2020-12-21,FKYS,First Keystone Corp,Marr Nancy Jean,18.75,5000,"16,531","93,750",21,29,12
+2020-12-21,SREV,"Servicesource International, Inc.","Edenbrook Capital, LLC",1.54,30000,"18,403,489","46,245",1.58,29,2.597402597
+2020-12-21,HRB,H&r Block Inc,Jones Jeffrey J II,15.05,3310,"346,097","49,812",16.07,29,6.777408638
+2020-12-21,ACNB,Acnb Corp,Sites David L,24.84,1448,"34,504","35,969",26.27,29,5.7568438
+2020-12-21,GEF,"Greif, Inc",Hilsheimer Lawrence A.,47.74,5000,"161,679","238,705",50.52,29,5.823209049
+2020-12-21,SVBI,Severn Bancorp Inc,Keitz Eric,7.1,4000,"40,000","28,400",7.72,29,8.732394366
+2020-12-20,CRTD,"Creatd, Inc.",Goldberg Eric Ellis,3.96,7000,"2,218,780","27,710",4.44,30,12.12121212
+2020-12-18,BRK.A,Berkshire Hathaway Inc,Olson Ronald L,222.33,4000,"25,332","889,335",350540,32,157566.5317
+2020-12-18,TRCH,Torchlight Energy Resources Inc,McCabe Greg,0.46,1630434,"15,818,738","750,000",1.43,32,210.8695652
+2020-12-18,MRUS,Merus N.V.,Bvf Partners L P/il,16.05,160000,"2,627,851","2,568,000",23,32,43.30218069
+2020-12-18,TESS,Tessco Technologies Inc,Lakeview Investment Group & Trading Co LLC,5.84,30100,"1,031,591","175,865",7.65,32,30.99315068
+2020-12-18,HROW,"Harrow Health, Inc.",Opaleye Management Inc.,5.26,106416,"3,065,416","559,482",8.32,32,58.17490494
+2020-12-18,SUM,"Summit Materials, Inc.",Cantie Joseph S,19.66,5100,"26,047","100,242",23.35,32,18.76907426
+2020-12-18,EGLE,Eagle Bulk Shipping Inc.,Goldentree Asset Management LP,17.25,1091160,"530,842","18,822,510",23.52,32,36.34782609
+2020-12-18,FL,"Foot Locker, Inc.",Vesa Equity Investment S.A R.L.,38.86,207938,"12,930,344","8,079,784",48.47,32,24.72979928
+2020-12-18,UPST,"Upstart Holdings, Inc.",Loeb Daniel S,20,1200000,"13,381,222","24,000,000",60.64,32,203.2
+2020-12-18,BXG,Bluegreen Vacations Corp,Tonkin Dusty,7.09,10000,"40,390","70,900",7.36,32,3.808180536
+2020-12-18,EGLE,Eagle Bulk Shipping Inc.,Vogel Gary,18.1,8287,"168,124","149,995",23.52,32,29.94475138
+2020-12-18,BCAB,"Bioatla, Inc.",Levy Guy,18,1388890,"348,204","25,000,020",46.76,32,159.7777778
+2020-12-18,MDVL,"Medavail Holdings, Inc.",Abg Wtt-Medavail Ltd,13.46,34877,"2,890,305","469,583",14.25,32,5.869242199
+2020-12-18,BCAB,"Bioatla, Inc.","Cormorant Asset Management, LP",18,800000,"2,292,060","14,400,000",46.76,32,159.7777778
+2020-12-18,UEPS,Net 1 Ueps Technologies Inc,Nkosi Monde,3.97,279728,"12,234,863","1,110,520",4.64,32,16.87657431
+2020-12-18,UEPS,Net 1 Ueps Technologies Inc,Ball Antony C,3.97,279728,"12,234,863","1,110,520",4.64,32,16.87657431
+2020-12-18,UEPS,Net 1 Ueps Technologies Inc,Value Capital Partners (Pty) Ltd,3.97,279728,"12,234,863","1,110,520",4.64,32,16.87657431
+2020-12-18,GPC,Genuine Parts Co,Holder John R,97,1000,"13,731","97,000",104.84,32,8.082474227
+2020-12-18,TRC,Tejon Ranch Co,Towerview LLC,13.98,32497,"3,815,000","454,458",15.42,32,10.30042918
+2020-12-18,ARVN,"Arvinas, Inc.",Ratcliffe Liam,70,142857,"822,857","9,999,990",86.94,32,24.2
+2020-12-18,MG,"Mistras Group, Inc.",Stamatakis Manuel N.,7.35,20000,"156,262","147,000",8.48,32,15.37414966
+2020-12-18,BRG,"Bluerock Residential Growth Reit, Inc.",Vohs Christopher J.,22.5,2500,"7,500","56,250",11.37,32,-49.46666667
+2020-12-18,GWRE,"Guidewire Software, Inc.",Brown Andrew William Fraser,124.49,6000,"10,833","746,930",125.62,32,0.90770343
+2020-12-18,ABIO,"Arca Biopharma, Inc.",Conway Robert E,4.16,10000,"30,000","41,630",4.46,32,7.211538462
+2020-12-18,GATO,"Gatos Silver, Inc.",Hanneman Karl L,9.7,10000,"13,778","97,000",14.28,32,47.21649485
+2020-12-18,HEPA,"Hepion Pharmaceuticals, Inc.",Wijngaard Peter,1.91,20000,"20,000","38,200",2.37,32,24.08376963
+2020-12-18,ATH,Athene Holding Ltd,Belardi James Richard,25,40000,"40,000","1,000,000",44.74,32,78.96
+2020-12-17,CNBKA,Century Bancorp Inc,Filler James J,76.79,1446,"856,445","111,043",79.25,33,3.203542128
+2020-12-17,AVCT,"American Virtual Cloud Technologies, Inc.",Lockhart Dennis P,5.35,15000,"42,000","80,250",8.63,33,61.30841121
+2020-12-17,GTIM,Good Times Restaurants Inc.,Jobson Charles E,2.25,42514,"2,144,225","95,657",3.06,33,36
+2020-12-17,VST,Vistra Corp.,Helm Scott B,17.81,20000,"210,377","356,180",21.29,33,19.5395845
+2020-12-17,NTAP,"Netapp, Inc.",Berry Michael J,63.89,15000,"37,568","958,329",65.39,33,2.347785256
+2020-12-17,GME,Gamestop Corp.,Cohen Ryan,15.51,1226400,"9,001,000","19,025,878",38.49,33,148.1624758
+2020-12-17,EOSE,"Eos Energy Enterprises, Inc.",Dimitrief Alexander,14.57,20000,"20,000","291,400",24.1,33,65.40837337
+2020-12-17,KFS,Kingsway Financial Services Inc,Stilwell Joseph,4.47,10000,"2,295,575","44,721",4.89,33,9.395973154
+2020-12-17,OPHC,"Optimumbank Holdings, Inc.",Chan Heng Fai Ambrose,3.09,8900,"20,400","27,526",3.88,33,25.56634304
+2020-12-17,DLHC,Dlh Holdings Corp.,Johnbull Kathryn M.,9.8,7346,"150,000","71,991",11.44,33,16.73469388
+2020-12-17,INBK,First Internet Bancorp,Becker David B,28.19,20000,"343,309","563,800",30.68,33,8.832919475
+2020-12-17,MCFT,"Mastercraft Boat Holdings, Inc.",Leemputte Peter G,25.38,3000,"17,336","76,139",26.91,33,6.028368794
+2020-12-17,BH,Biglari Holdings Inc.,"Biglari, Sardar",401.16,843,"1,392,884","338,175",108.98,33,-72.83378203
+2020-12-17,CYTH,"Cyclo Therapeutics, Inc.",Ostronic Francis Patrick,4.66,30000,"58,559","139,748",5.6,33,20.17167382
+2020-12-17,VTVT,Vtv Therapeutics Inc.,Perelman Ronald O,1.6,625000,"36,606,212","1,000,000",2.17,33,35.625
+2020-12-17,AIM,Aim Immunotech Inc.,Equels Thomas K.,1.72,14535,"198,568","25,000",2,33,16.27906977
+2020-12-16,PURE,"Pure Bioscience, Inc.",Lee Tom Y,0.66,78721,"21,815,984","52,248",0.82,34,24.24242424
+2020-12-16,BFI,"Burgerfi International, Inc.",Sternberg Ophir,10,1000000,"2,469,341","10,000,000",13.5,34,35
+2020-12-16,BFI,"Burgerfi International, Inc.","Lionheart Equities, LLC",10,1000000,"1,000,000","10,000,000",13.5,34,35
+2020-12-16,BFI,"Burgerfi International, Inc.",Greenfield Allison,10.6,4616,"24,616","48,930",13.5,34,27.35849057
+2020-12-16,VST,Vistra Corp.,Burke James A,18.25,17000,"202,608","310,233",21.29,34,16.65753425
+2020-12-16,GDYN,"Grid Dynamics Holdings, Inc.",Livshitz Victoria,11.72,126000,"895,575","1,476,986",12.63,34,7.764505119
+2020-12-16,PERS,Sandridge Permian Trust,"Montare Resources I, LLC",0.39,339479,"4,397,720","133,390",0.4,34,2.564102564
+2020-12-16,VTRS,Viatris Inc,Kilts James M,17.66,27736,"64,905","489,693",17.11,34,-3.114382786
+2020-12-16,USIO,"Usio, Inc.","Topline Capital Management, LLC",2.03,270389,"3,375,000","548,948",3.14,34,54.67980296
+2020-12-16,USIO,"Usio, Inc.","Topline Capital Partners, LP",2.03,270389,"3,375,000","548,948",3.14,34,54.67980296
+2020-12-16,MDVL,"Medavail Holdings, Inc.",Abg Wtt-Medavail Ltd,13.13,43383,"2,874,539","569,516",14.25,34,8.530083778
+2020-12-16,QMCO,Quantum Corp /de/,Fichthorn John,6.19,20000,"144,740","123,713",6.67,34,7.754442649
+2020-12-16,MCFT,"Mastercraft Boat Holdings, Inc.",Lambert Roch,25.53,2900,"17,236","74,044",26.91,34,5.405405405
+2020-12-16,ELYS,"Elys Game Technology, Corp.",Ciavarella Michele,3.79,42000,"4,901,966","158,990",6.5,34,71.50395778
+2020-12-16,PROG,"Progenity, Inc.",Silvestry Damon,4.58,58081,"221,230","265,857",5.43,34,18.55895197
+2020-12-16,KRMD,Repro Med Systems Inc,Manko Joseph M. Jr.,5.7,10000,"11,863,458","56,974",5.42,34,-4.912280702
+2020-12-16,LXRX,"Lexicon Pharmaceuticals, Inc.",Artal International S.C.A.,3.2,10937500,"71,178,364","35,000,000",7.48,34,133.75
+2020-12-16,LXRX,"Lexicon Pharmaceuticals, Inc.","Invus Public Equities, L.P.",3.2,10937500,"71,178,364","35,000,000",7.48,34,133.75
+2020-12-16,CTRN,Citi Trends Inc,Makuen David N.,43.85,1000,"15,645","43,850",61.35,34,39.90877993
+2020-12-16,PCPL,Cc Neuberger Principal Holdings I,"Alyeska Investment Group, L.P.",10.29,208800,"9,337,278","2,148,552",11.88,34,15.45189504
+2020-12-16,RBNC,"Reliant Bancorp, Inc.",York Kim,19.02,2620,"9,620","49,833",20.04,34,5.362776025
+2020-12-16,SONA,Southern National Bancorp of Virginia Inc,Zember Dennis J Jr,11.57,100000,"150,000","1,157,000",12.19,34,5.358686258
+2020-12-15,MBIO,"Mustang Bio, Inc.",Litchman Manuel Md,2.91,100000,"654,846","291,000",4.74,35,62.88659794
+2020-12-15,GTYH,Gty Technology Holdings Inc.,Green William D,4,60000,"378,979","239,796",6.17,35,54.25
+2020-12-15,FDMT,4D Molecular Therapeutics Inc.,Viking Global Investors LP,23,1100000,"3,937,914","25,300,000",48,35,108.6956522
+2020-12-15,CURI,Curiositystream Inc.,Hendricks John S,10.53,41000,"21,161,389","431,525",18.26,35,73.40930674
+2020-12-15,ABCL,Abcellera Biologics Inc.,Thiel Peter,20,3000000,"24,660","60,000,000",45.51,35,127.55
+2020-12-15,ABCL,Abcellera Biologics Inc.,Montalbano John S.,20,25000,"25,000","500,000",45.51,35,127.55
+2020-12-15,ABCL,Abcellera Biologics Inc.,Lecault Veronique,20,23000,"9,496,218","460,000",45.51,35,127.55
+2020-12-15,ABCL,Abcellera Biologics Inc.,Hayden Michael R,20,73665,"1,221,642","1,473,300",45.51,35,127.55
+2020-12-15,ACTG,Acacia Research Corp,Tobia Alfred Victor Jr.,3.77,100000,"588,462","377,170",4.92,35,30.50397878
+2020-12-15,HYMC,Hycroft Mining Holding Corp,Garrett Diane R,7.1,34000,"34,000","241,458",7.36,35,3.661971831
+2020-12-15,HYMC,Hycroft Mining Holding Corp,Rideout Stanton K,7,15000,"15,000","105,000",7.36,35,5.142857143
+2020-12-15,FDMT,4D Molecular Therapeutics Inc.,Milligan John F,23,100000,"100,000","2,300,000",48,35,108.6956522
+2020-12-15,FDMT,4D Molecular Therapeutics Inc.,Kamal Fariborz,23,4347,"4,347","99,981",48,35,108.6956522
+2020-12-15,FDMT,4D Molecular Therapeutics Inc.,Yao Tony Dung Ling,23,425000,"1,063,744","9,775,000",48,35,108.6956522
+2020-12-15,CMPI,"Checkmate Pharmaceuticals, Inc.",Krieg Arthur M,14.62,4847,"930,815","70,858",13.8,35,-5.60875513
+2020-12-15,LSYN,Liberated Syndication Inc.,Tirpak Bradley M,5.15,10000,"135,000","51,500",5.1,35,-0.970873786
+2020-12-15,LSYN,Liberated Syndication Inc.,Heyse Richard,5.1,10000,"130,000","50,973",5.1,35,0
+2020-12-15,AVGO,Broadcom Inc.,Fernandez Raul J,416.8,120,"1,351","50,016",448.18,35,7.528790787
+2020-12-15,CADE,Cadence Bancorporation,Harrison William B Jr,15.16,2308,"687,082","34,990",20.39,35,34.49868074
+2020-12-15,CADE,Cadence Bancorporation,Fredericks J Richard,15.16,2061,"127,772","31,241",20.39,35,34.49868074
+2020-12-15,NMTR,"9 Meters Biopharma, Inc.",Temperato John,0.65,153846,"977,522","100,000",1.34,35,106.1538462
+2020-12-15,NMTR,"9 Meters Biopharma, Inc.",Sirgo Mark A,0.65,230769,"795,551","150,000",1.34,35,106.1538462
+2020-12-15,NMTR,"9 Meters Biopharma, Inc.",Sitar Edward J,0.65,61538,"129,338","40,000",1.34,35,106.1538462
+2020-12-15,IMKTA,Ingles Markets Inc,Lowden John R,42.05,600,600,"25,229",42.17,35,0.285374554
+2020-12-15,GEF,"Greif, Inc",Hilsheimer Lawrence A.,49.36,7138,"161,629","352,300",50.52,35,2.350081037
+2020-12-15,KFS,Kingsway Financial Services Inc,Stilwell Joseph,4.4,13104,"2,294,575","57,656",4.89,35,11.13636364
+2020-12-15,KEQU,Kewaunee Scientific Corp /de/,Russell John,9.68,4500,"19,000","43,560",12.56,35,29.75206612
+2020-12-15,ACTG,Acacia Research Corp,Tobia Alfred Victor Jr.,3.77,100000,"588,462","377,170",4.92,35,30.50397878
+2020-12-15,LIVX,"Livexlive Media, Inc.",Quartieri Michael,2.9,19255,"19,255","55,807",3.83,35,32.06896552
+2020-12-15,CERT,"Certara, Inc.",Walsh Matthew M,23,5000,"172,901","115,000",34.88,35,51.65217391
+2020-12-15,CSTR,"Capstar Financial Holdings, Inc.",Duncan Denis J.,13.49,11150,"24,952","150,414",15.92,35,18.01334322
+2020-12-15,CERT,"Certara, Inc.",Cashman James E III,23,20000,"476,723","460,000",34.88,35,51.65217391
+2020-12-15,CERT,"Certara, Inc.",McLean Stephen M.,23,22000,"22,000","506,000",34.88,35,51.65217391
+2020-12-15,CRTD,"Creatd, Inc.",Patterson Mark Richard,3.93,17986,"175,918","70,738",4.44,35,12.97709924
+2020-12-15,PROG,"Progenity, Inc.",Silvestry Damon,4.07,63870,"163,149","259,951",5.43,35,33.41523342
+2020-12-15,LGIQ,"Logiq, Inc.",Suen Brent,10.37,10000,"231,770","103,700",9.01,35,-13.1147541
+2020-12-15,CTG,Computer Task Group Inc,Sullivan Daniel J,6.7,10000,"346,804","66,991",6.57,35,-1.940298507
+2020-12-14,MBIO,"Mustang Bio, Inc.",Rosenwald Lindsay A Md,2.66,100000,"202,436","266,000",4.74,36,78.19548872
+2020-12-14,UEPS,Net 1 Ueps Technologies Inc,Ball Antony C,3.56,692088,"11,955,135","2,465,303",4.64,36,30.33707865
+2020-12-14,UEPS,Net 1 Ueps Technologies Inc,Nkosi Monde,3.56,692088,"11,955,135","2,465,303",4.64,36,30.33707865
+2020-12-14,UEPS,Net 1 Ueps Technologies Inc,Value Capital Partners (Pty) Ltd,3.56,692088,"11,955,135","2,465,303",4.64,36,30.33707865
+2020-12-14,AQB,"Aquabounty Technologies, Inc.",Huber Richard L,6.5,10000,"71,311","65,000",11.43,36,75.84615385
+2020-12-14,PGTK,Pacific Green Technologies Inc.,Fresh Air Investments (Canada) Ltd.,1.05,27200,"5,926,352","28,568",2.2,36,109.5238095
+2020-12-14,SONA,Southern National Bancorp of Virginia Inc,Biagas John Fitzgerald,11.3,8880,"57,879","100,344",12.19,36,7.876106195
+2020-12-14,MDVL,"Medavail Holdings, Inc.",Abg Wtt-Medavail Ltd,12.68,43886,"2,854,928","556,460",14.25,36,12.38170347
+2020-12-14,UEPS,Net 1 Ueps Technologies Inc,Ball Antony C,3.48,108104,"11,263,047","376,100",4.64,36,33.33333333
+2020-12-14,UEPS,Net 1 Ueps Technologies Inc,Value Capital Partners (Pty) Ltd,3.48,108104,"11,263,047","376,100",4.64,36,33.33333333
+2020-12-14,UEPS,Net 1 Ueps Technologies Inc,Nkosi Monde,3.48,108104,"11,263,047","376,100",4.64,36,33.33333333
+2020-12-14,UHAL,Amerco /nv/,Willow Grove Holdings LP,428.55,5000,"8,342,804","2,142,743",471.27,36,9.968498425
+2020-12-14,UHAL,Amerco /nv/,Shoen Mark V,428.55,5000,"8,364,943","2,142,743",471.27,36,9.968498425
+2020-12-14,UHAL,Amerco /nv/,Shoen Edward J,428.55,5000,"8,367,910","2,142,743",471.27,36,9.968498425
+2020-12-14,BH,Biglari Holdings Inc.,"Biglari, Sardar",183.65,3677,"1,392,041","675,268",108.98,36,-40.65886197
+2020-12-14,SNEX,Stonex Group Inc.,Stevens Glenn Henry,51.93,15000,"15,000","778,950",62.58,36,20.50837666
+2020-12-14,CLRO,Clearone Inc,Bagley Edward D,2.44,18535,"8,348,357","45,281",2.39,36,-2.049180328
+2020-12-14,SNEX,Stonex Group Inc.,Rotsztain Diego,50.92,981,981,"49,957",62.58,36,22.89866457
+2020-12-14,VBFC,Village Bank & Trust Financial Corp.,Lehman Kenneth R,33.94,3848,"768,379","130,616",34.95,36,2.975839717
+2020-12-14,DLHC,Dlh Holdings Corp.,Parker Zachary,10.38,9200,"435,059","95,496",11.44,36,10.21194605
+2020-12-14,SELB,Selecta Biosciences Inc,Traber Peter G,3.24,40000,"40,000","129,424",3.69,36,13.88888889
+2020-12-14,ATCX,"Atlas Technical Consultants, Inc.",Lemoine Leonard Kyle,7.28,15000,"56,995","109,185",10.04,36,37.91208791
+2020-12-14,ELYS,"Elys Game Technology, Corp.",Gold Street Capital Corp.,3.02,100000,"4,494,525","301,775",6.5,36,115.2317881
+2020-12-14,ADAP,Adaptimmune Therapeutics Plc,Bertrand William C Jr,0.69,207000,"284,808","143,824",6.13,36,788.4057971
+2020-12-14,PROG,"Progenity, Inc.",Alter Jeffrey D.,4.85,20000,"38,335","97,000",5.43,36,11.95876289
+2020-12-14,ALXO,Alx Oncology Holdings Inc,Graham G. Walmsley,76,20000,"3,156,981","1,520,000",82.79,36,8.934210526
+2020-12-14,URGN,Urogen Pharma Ltd.,Barrett Elizabeth A.,18.5,10000,"229,117","185,000",20.67,36,11.72972973
+2020-12-14,CTO,"Cto Realty Growth, Inc.",Partridge Matthew Morris,41.75,1200,"5,200","50,100",47.21,36,13.07784431
+2020-12-14,NCSM,"Ncs Multistage Holdings, Inc.",Hummer Ryan,19.59,2331,"13,362","45,664",34.36,36,75.39561001
+2020-12-14,KEY,Keycorp /new/,Hayes Robin,16,2500,"2,500","40,000",18.54,36,15.875
+2020-12-14,EPR,Epr Properties,Newman Jack A Jr,31.04,5800,"6,439","180,005",36.98,36,19.13659794
+2020-12-14,HMST,"Homestreet, Inc.",Green Jeffrey D,33,1000,"4,048","33,000",36.46,36,10.48484848
+2020-12-14,MBIO,"Mustang Bio, Inc.",Rosenwald Lindsay A Md,2.66,100000,"200,423","266,000",4.74,36,78.19548872
+2020-12-14,NHI,National Health Investors Inc,Adams Robert G,67.75,2000,"631,490","135,500",66.94,36,-1.195571956
+2020-12-14,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,14.16,100000,"14,922,031","1,415,800",14.04,36,-0.847457627
+2020-12-11,TCDA,"Tricida, Inc.",McKague Robert,7.62,10000,"14,000","76,200",7.21,39,-5.380577428
+2020-12-11,DASH,Doordash Inc,"Sc Us (Ttgp), Ltd.",102,250000,"52,027,269","25,500,000",207,39,102.9411765
+2020-12-11,DASH,Doordash Inc,"Sc Us (Ttgp), Ltd.",102,250000,"52,027,269","25,500,000",207,39,102.9411765
+2020-12-11,DASH,Doordash Inc,"Sc Us (Ttgp), Ltd.",102,250000,"52,027,269","25,500,000",207,39,102.9411765
+2020-12-11,DASH,Doordash Inc,Lin Alfred,102,250000,"52,027,269","25,500,000",207,39,102.9411765
+2020-12-11,IGMS,"Igm Biosciences, Inc.",Topsoe Jakob Haldor,90,111111,"10,455,513","9,999,990",93.1,39,3.444444444
+2020-12-11,IGMS,"Igm Biosciences, Inc.",Topsoe Christina Teng,90,111111,"10,436,010","9,999,990",93.1,39,3.444444444
+2020-12-11,IGMS,"Igm Biosciences, Inc.",Haldor Topsoe Holding A/s,90,111111,"10,400,564","9,999,990",93.1,39,3.444444444
+2020-12-11,IGMS,"Igm Biosciences, Inc.",Behrens M Kathleen,90,44444,"114,682","3,999,960",93.1,39,3.444444444
+2020-12-11,AYTU,"Aytu Bioscience, Inc","Armistice Capital, LLC",6,1333334,"2,666,668","8,000,004",7.52,39,25.33333333
+2020-12-11,XOMA,Xoma Corp,Perry Matthew D,25,200000,"211,799","5,000,000",39.75,39,59
+2020-12-11,XOMA,Xoma Corp,Bvf Partners L P/il,25,200000,"4,394,042","5,000,000",39.75,39,59
+2020-12-11,AESE,"Allied Esports Entertainment, Inc.",Knighted Pastures LLC,1.41,447138,"4,493,858","630,465",1.65,39,17.0212766
+2020-12-11,IDRA,"Idera Pharmaceuticals, Inc.",Pillar Invest Corp,1.82,69941,"7,010,824","127,293",4.34,39,138.4615385
+2020-12-11,CMTL,Comtech Telecommunications Corp /de/,Lesavoy Lisa /adv,17.16,4000,"4,000","68,640",22.12,39,28.9044289
+2020-12-11,KFS,Kingsway Financial Services Inc,Stilwell Joseph,4.3,19701,"5,085,763","84,709",4.89,39,13.72093023
+2020-12-11,PCPL,Cc Neuberger Principal Holdings I,"Alyeska Investment Group, L.P.",10.29,518940,"9,267,678","5,342,117",11.88,39,15.45189504
+2020-12-11,EFSC,Enterprise Financial Services Corp,Sanborn Richard,35.18,8750,"400,008","307,825",37.25,39,5.884025014
+2020-12-11,EVLO,"Evelo Biosciences, Inc.",Epstein David R,6.66,7700,"17,700","51,261",13.75,39,106.4564565
+2020-12-11,MAYS,Mays J W Inc,Gailoyd Enterprises Corp.,23,9000,"690,120","207,000",24,39,4.347826087
+2020-12-11,SCND,Scientific Industries Inc,Frampton Marcus,8.14,7235,"75,495","58,910",8.13,39,-0.122850123
+2020-12-11,ELYS,"Elys Game Technology, Corp.",Ciavarella Michele,3.02,58000,"4,759,966","175,028",6.5,39,115.2317881
+2020-12-11,AAOI,"Applied Optoelectronics, Inc.",Lin Che-Wei,7.82,25401,"91,764","198,725",10.5,39,34.27109974
+2020-12-11,STFC,State Auto Financial Corp,Garland Kim Burton,17.11,17170,"182,204","293,727",18.53,39,8.29924021
+2020-12-11,DCTH,"Delcath Systems, Inc.",Michel Gerard J,13.25,7500,"7,500","99,375",16.88,39,27.39622642
+2020-12-11,NTWK,Netsol Technologies Inc,Ghauri Najeeb,3.77,8300,"775,201","31,255",4.39,39,16.44562334
+2020-12-11,MBCN,Middlefield Banc Corp,Mast Darryl E,21.24,2000,"33,537","42,482",21.84,39,2.824858757
+2020-12-10,BDGE,"Bridge Bancorp, Inc.","Basswood Capital Management, L.L.C.",24.35,1526,"2,206,906","37,158",27.25,40,11.90965092
+2020-12-10,RCKT,"Rocket Pharmaceuticals, Inc.","Rtw Investments, LP",56,247720,"17,530,044","13,872,320",57.72,40,3.071428571
+2020-12-10,ULH,"Universal Logistics Holdings, Inc.",Moroun Matthew T,19.45,1471521,"19,458,772","28,617,699",22.34,40,14.85861183
+2020-12-10,CURI,Curiositystream Inc.,Hendricks John S,8.91,53157,"21,120,389","473,561",18.26,40,104.9382716
+2020-12-10,DK,"Delek Us Holdings, Inc.",Marcogliese Richard J,16.92,11000,"19,246","186,142",19.59,40,15.78014184
+2020-12-10,CAR,"Avis Budget Group, Inc.","Srs Investment Management, LLC",38.85,9800,"18,430,882","380,687",38.51,40,-0.875160875
+2020-12-10,CMT,Core Molding Technologies Inc,Duvall David L.,11.98,3000,"265,265","35,940",13.54,40,13.02170284
+2020-12-10,LAZY,"Lazydays Holdings, Inc.","Coliseum Capital Management, LLC",14.2,25270,"1,607,220","358,745",18.2,40,28.16901408
+2020-12-10,PCPL,Cc Neuberger Principal Holdings I,"Alyeska Investment Group, L.P.",10.28,1813848,"9,094,698","18,654,249",11.88,40,15.56420233
+2020-12-10,ATI,Allegheny Technologies Inc,Newman Donald P,16.83,12500,80,"210,365",18.22,40,8.2590612
+2020-12-10,HTBK,Heritage Commerce Corp,Dinapoli Jason Philip,8.94,10000,"347,135","89,399",9.79,40,9.507829978
+2020-12-10,HYFM,"Hydrofarm Holdings Group, Inc.",Persofsky Renah,44.69,2000,"4,500","89,380",71,40,58.87223092
+2020-12-10,DFIN,"Donnelley Financial Solutions, Inc.",Ellis Juliet S,18.25,2500,"37,324","45,634",19.12,40,4.767123288
+2020-12-10,ISNS,Image Sensing Systems Inc,Daly Joseph Patrick,4.41,13486,"89,108","59,409",4.54,40,2.947845805
+2020-12-10,DGICA,Donegal Group Inc,Donegal Mutual Insurance Co,14.22,35000,"14,822,031","497,700",14.04,40,-1.265822785
+2020-12-10,DASH,Doordash Inc,Renz Maria,175.1,234,234,"40,973",207,40,18.21816105
+2020-12-10,TCDA,"Tricida, Inc.",Parker Geoffrey M.,6.78,15000,"250,837","101,700",7.21,40,6.342182891
+2020-12-10,ARDX,"Ardelyx, Inc.",Mott David M,5.89,170000,"417,284","1,000,841",6.87,40,16.63837012
+2020-12-10,ATO,Atmos Energy Corp,Sampson Richard A,97.41,500,"7,076","48,705",87.67,40,-9.998973411
+2020-12-10,VTVT,Vtv Therapeutics Inc.,Perelman Ronald O,1.6,625000,"35,981,212","1,000,000",2.17,40,35.625
+2020-12-10,SYNL,Synalloy Corp,Schauerman John P.,6.5,16600,"36,600","107,900",8.89,40,36.76923077
+2020-12-09,CNBKA,Century Bancorp Inc,Filler James J,74.8,605,"854,999","45,251",79.25,41,5.949197861
+2020-12-09,CCI,Crown Castle International Corp,Martin J Landis,157.11,1200,"8,700","188,534",154.78,41,-1.483037362
+2020-12-09,XELB,"Xcel Brands, Inc.",D Loren Robert W,1.06,39624,"2,026,883","42,172",1.4,41,32.0754717
+2020-12-09,PERS,Sandridge Permian Trust,"Montare Resources I, LLC",0.39,69497,"4,058,241","26,805",0.4,41,2.564102564
+2020-12-09,SSTI,"Shotspotter, Inc",Stewart Alan R.,32.8,6091,"68,062","199,787",47.55,41,44.9695122
+2020-12-09,COTY,Coty Inc.,Von Bayern Anna,7.24,32100,"32,100","232,261",7.16,41,-1.104972376
+2020-12-09,CCI,Crown Castle International Corp,Martin J Landis,157.28,2100,"175,343","330,283",154.78,41,-1.589521872
+2020-12-09,SREV,"Servicesource International, Inc.","Edenbrook Capital, LLC",1.5,50000,"18,367,265","74,830",1.58,41,5.333333333
+2020-12-09,LAZY,"Lazydays Holdings, Inc.","Coliseum Capital Management, LLC",13.99,49300,"780,340","689,707",18.2,41,30.09292352
+2020-12-09,OTIS,Otis Worldwide Corp,Calleja Fernandez Bernardo,65.51,500,"1,500","32,755",64.81,41,-1.068539154
+2020-12-09,VAPO,Vapotherm Inc,Smith Thomas W,27.14,8000,"675,947","217,115",32.22,41,18.71775976
+2020-12-09,MTEM,"Molecular Templates, Inc.",Biotech Target N V,8.38,445000,"6,380,331","3,727,441",11.26,41,34.36754177
+2020-12-09,GVP,Gse Systems Inc,Corey William S. Jr.,1.14,25000,"50,316","28,500",1.64,41,43.85964912
+2020-12-09,PDCE,"Pdc Energy, Inc.",Korus Paul,18.63,2500,"17,036","46,575",25.21,41,35.31937735
+2020-12-09,XERS,Xeris Pharmaceuticals Inc,Edick Paul R,4.06,10000,"424,564","40,551",5.71,41,40.64039409
+2020-12-09,COLD,Americold Realty Trust,Heistand James R,33.5,10000,"57,114","335,000",34.11,41,1.820895522
+2020-12-09,WTFC,Wintrust Financial Corp,Zidar Thomas P,59.91,4441,"40,628","266,060",66.65,41,11.25020865
+2020-12-09,BFIN,Bankfinancial Corp,Wherfel Glen,8.7,25000,"104,958","217,390",9.07,41,4.252873563
+2020-12-09,STFC,State Auto Financial Corp,Garland Kim Burton,16.9,20000,"164,811","337,920",18.53,41,9.644970414
+2020-12-09,PTRS,Partners Bancorp,Mote Steven R.,6.43,10000,"27,010","64,300",6.43,41,0
+2020-12-09,BOXL,Boxlight Corp,Pope Michael Ross,1.65,40000,"287,942","66,000",2.27,41,37.57575758
+2020-12-09,GTE,Gran Tierra Energy Inc.,Wade Brooke N.,0.39,200000,"2,133,600","78,000",0.55,41,41.02564103
+2020-12-09,CSV,Carriage Services Inc,Payne Melvin C,30.02,29000,"1,302,091","870,580",33.69,41,12.22518321
+2020-12-09,BOXL,Boxlight Corp,Starkey Mark,1.68,30000,"80,000","50,400",2.27,41,35.11904762
+2020-12-08,SEER,"Seer, Inc.",Ainslie Lee S III,19,93380,"22,620","1,774,220",75.54,42,297.5789474
+2020-12-08,CRTD,"Creatd, Inc.",Patterson Mark Richard,3.53,40000,"155,732","141,281",4.44,42,25.77903683
+2020-12-08,KAVL,"Kaival Brands Innovations Group, Inc.",Patel Nirajkumar,0.47,105710,"204,350,210","49,711",0.8,42,70.21276596
+2020-12-08,BH,Biglari Holdings Inc.,"Biglari, Sardar",141.16,11054,"1,388,364","1,560,405",108.98,42,-22.7968263
+2020-12-08,MNKD,Mannkind Corp,Galindo Alejandro,2.89,34602,"398,602","100,000",3.31,42,14.53287197
+2020-12-08,COTY,Coty Inc.,Singer Robert S,6.98,4000,"371,482","27,935",7.16,42,2.578796562
+2020-12-08,KDNY,"Chinook Therapeutics, Inc.",Dobmeier Eric,13.16,4000,"56,837","52,633",15.56,42,18.23708207
+2020-12-08,SYNL,Synalloy Corp,Privet Fund Management LLC,6.39,15700,"1,591,718","100,311",8.89,42,39.12363067
+2020-12-08,AESE,"Allied Esports Entertainment, Inc.",Knighted Pastures LLC,1.14,552862,"3,945,720","630,955",1.65,42,44.73684211
+2020-12-08,SGTX,"Sigilon Therapeutics, Inc.",Eli Lilly & Co,18,300000,"2,744,443","5,400,000",34.55,42,91.94444444
+2020-12-08,ESCA,Escalade Inc,Glazer Walter P. Jr.,18.59,20884,"281,832","388,143",22.28,42,19.84938139
+2020-12-08,NHLD,National Holdings Corp,Asher Daniel,2.63,136854,"3,007,762","360,406",3.32,42,26.23574144
+2020-12-08,KDP,Keurig Dr Pepper Inc.,Singer Robert S,30.3,2500,"75,500","75,748",31.48,42,3.894389439
+2020-12-08,SEER,"Seer, Inc.","Invus Public Equities, L.P.",19,790000,"5,840,911","15,010,000",75.54,42,297.5789474
+2020-12-08,SEER,"Seer, Inc.",Amoon 2 Fund Limited Partnership,19,889473,"5,923,196","16,899,987",75.54,42,297.5789474
+2020-12-08,KRMD,Repro Med Systems Inc,Manko Joseph M. Jr.,5.43,10000,"11,853,458","54,291",5.42,42,-0.184162063
+2020-12-08,ISNS,Image Sensing Systems Inc,Daly Joseph Patrick,4.34,6064,"75,622","26,294",4.54,42,4.608294931
+2020-12-08,SEER,"Seer, Inc.",McGuire Terrance,19,78947,"78,947","1,499,993",75.54,42,297.5789474
+2020-12-08,UAL,"United Airlines Holdings, Inc.",Hooper Michele J,48.99,1900,"3,042","93,091",45.85,42,-6.409471321
+2020-12-08,DLTR,"Dollar Tree, Inc.",Lewis Lemuel E,110,1000,"25,614","110,000",109.31,42,-0.627272727
+2020-12-08,MDLZ,"Mondelez International, Inc.",Siewert Patrick,58.42,2000,"39,750","116,840",57.23,42,-2.036973639
+2020-12-08,CNNE,"Cannae Holdings, Inc.",Massey Richard N,42.33,15000,"279,536","634,950",42.36,42,0.070871722
+2020-12-08,ACFN,"Acorn Energy, Inc.",Loeb Jan H,0.3,164501,"7,760,514","49,350",0.5,42,66.66666667
+2020-12-08,SBTX,"Silverback Therapeutics, Inc.","Presidio Management Group Xii, L.L.C.",21,47619,"2,221,798","999,999",50,42,138.0952381
+2020-12-08,SBTX,"Silverback Therapeutics, Inc.",Capps Vickie L,21,9523,"61,576","199,983",50,42,138.0952381
+2020-12-08,SBTX,"Silverback Therapeutics, Inc.",Piazza Jonathan,21,11904,"11,904","249,984",50,42,138.0952381
+2020-12-08,SBTX,"Silverback Therapeutics, Inc.",Schroeder Thilo,21,238096,"1,910,029","5,000,016",50,42,138.0952381
+2020-12-08,SBTX,"Silverback Therapeutics, Inc.",Root Jonathan D,21,95238,"2,269,417","1,999,998",50,42,138.0952381
+2020-12-08,SBTX,"Silverback Therapeutics, Inc.",Thompson Peter A.,21,1190477,"8,740,888","25,000,017",50,42,138.0952381
+2020-12-08,SBTX,"Silverback Therapeutics, Inc.",Orbimed Advisors LLC,21,1190477,"8,740,888","25,000,017",50,42,138.0952381
+2020-12-08,BZH,Beazer Homes USA Inc,Winkle C Christian,15.3,3616,"35,539","55,324",15.39,42,0.588235294
+2020-12-08,CODI,Compass Diversified Holdings,Ewing D Eugene,25.1,4000,"4,000","100,400",21.03,42,-16.21513944
+2020-12-08,HEPA,"Hepion Pharmaceuticals, Inc.",Foster Robert T,1.58,25000,"25,259","39,418",2.37,42,50
+2020-12-07,SMMF,"Summit Financial Group, Inc.",Hinkle Gary L,21.99,1413,"500,089","31,070",23.1,43,5.047748977
+2020-12-07,PROG,"Progenity, Inc.","Athyrium Capital Management, LP",3.27,4128440,"26,991,626","13,499,999",5.43,43,66.05504587
+2020-12-07,PROG,"Progenity, Inc.",Athyrium Opportunities Fund (A) LP,3.27,4128440,"26,991,626","13,499,999",5.43,43,66.05504587
+2020-12-07,CURI,Curiositystream Inc.,Hendricks John S,8.99,78000,"21,067,232","701,220",18.26,43,103.1145717
+2020-12-07,FMBI,First Midwest Bancorp Inc,Geoghegan Kevin P,15.33,1631,"11,234","25,000",18.06,43,17.80821918
+2020-12-07,MSVB,"Mid-Southern Bancorp, Inc.",Koch Eric A.,14.38,3042,"58,268","43,751",14.81,43,2.990264256
+2020-12-07,BOXL,Boxlight Corp,Starkey Mark,1.54,50000,"50,000","77,000",2.27,43,47.4025974
+2020-12-07,USIO,"Usio, Inc.","Topline Capital Management, LLC",1.79,96691,"3,104,611","173,077",3.14,43,75.41899441
+2020-12-07,USIO,"Usio, Inc.","Topline Capital Partners, LP",1.79,96691,"3,104,611","173,077",3.14,43,75.41899441
+2020-12-07,DLTR,"Dollar Tree, Inc.",Lewis Lemuel E,112,1000,"24,614","112,000",109.31,43,-2.401785714
+2020-12-05,WAB,Westinghouse Air Brake Technologies Corp,Schweitzer Pascal,74.74,700,"7,867","52,318",83.29,45,11.43965748
+2020-12-04,PGTK,Pacific Green Technologies Inc.,Fresh Air Investments (Canada) Ltd.,1.03,28820,"5,899,152","29,685",2.2,46,113.592233
+2020-12-04,CAR,"Avis Budget Group, Inc.","Srs Investment Management, LLC",38.87,117758,"18,421,082","4,577,612",38.51,46,-0.926164137
+2020-12-04,CTHR,Charles & Colvard Ltd,Sykes Ollin B,1.23,41915,"1,867,904","51,445",1.33,46,8.130081301
+2020-12-04,CLRO,Clearone Inc,Bagley Edward D,2.27,15000,"8,324,822","34,000",2.39,46,5.286343612
+2020-12-04,TESS,Tessco Technologies Inc,Lakeview Investment Group & Trading Co LLC,6.3,19300,"992,491","121,657",7.65,46,21.42857143
+2020-12-04,HCHC,"Hc2 Holdings, Inc.",Glazer Avram A,3.48,340548,"19,017,701","1,186,563",3.42,46,-1.724137931
+2020-12-04,BKI,"Black Knight, Inc.",Otting Joseph M,88.66,3383,"7,899","299,951",84.56,46,-4.62440785
+2020-12-04,HRTH,Harte Hanks Inc,Linscott Brian,2.49,20000,"107,004","49,728",2.7,46,8.43373494
+2020-12-04,MPLN,Multiplan Corp,"H&f Corporate Investors Viii, Ltd.",8.29,1712045,"215,514,491","14,193,602",7.63,46,-7.961399276
+2020-12-04,ARAV,"Aravive, Inc.",Shah Vinay,5.76,8000,"189,842","46,080",5.72,46,-0.694444444
+2020-12-04,ARAV,"Aravive, Inc.",McIntyre Gail Frances,5.77,8000,"10,137","46,160",5.72,46,-0.866551127
+2020-12-04,GFF,Griffon Corp,Alpert Henry A,20.02,5000,"67,865","100,100",23.09,46,15.33466533
+2020-12-04,RGLS,Regulus Therapeutics Inc.,Walker Paul Edward,0.62,4398602,"6,451,056","2,735,930",1.17,46,88.70967742
+2020-12-04,RGLS,Regulus Therapeutics Inc.,Sonsini Peter W.,0.62,4398602,"6,451,056","2,735,930",1.17,46,88.70967742
+2020-12-04,RGLS,Regulus Therapeutics Inc.,Sandell Scott D,0.62,4398602,"6,451,056","2,735,930",1.17,46,88.70967742
+2020-12-04,RGLS,Regulus Therapeutics Inc.,Makower Joshua,0.62,4398602,"6,451,056","2,735,930",1.17,46,88.70967742
+2020-12-04,RGLS,Regulus Therapeutics Inc.,Makhzoumi Mohamad,0.62,4398602,"6,451,056","2,735,930",1.17,46,88.70967742
+2020-12-04,RGLS,Regulus Therapeutics Inc.,Florence Anthony A. Jr.,0.62,4398602,"6,451,056","2,735,930",1.17,46,88.70967742
+2020-12-04,RGLS,Regulus Therapeutics Inc.,Chang Carmen,0.62,4398602,"6,451,056","2,735,930",1.17,46,88.70967742
+2020-12-04,RGLS,Regulus Therapeutics Inc.,Behbahani Ali,0.62,4398602,"6,451,056","2,735,930",1.17,46,88.70967742
+2020-12-04,RGLS,Regulus Therapeutics Inc.,Baskett Forest,0.62,4398602,"6,451,056","2,735,930",1.17,46,88.70967742
+2020-12-04,RGLS,Regulus Therapeutics Inc.,"Growth Equity Opportunities V, LLC",0.62,4398602,"6,451,056","2,735,930",1.17,46,88.70967742
+2020-12-04,VSTM,"Verastem, Inc.",Barberich Timothy J,2.17,50000,"218,000","108,500",2.45,46,12.90322581
+2020-12-04,FLL,Full House Resorts Inc,Hartmeier Michael A.,3.71,20000,"21,675","74,200",3.93,46,5.929919137
+2020-12-04,COHN,Cohen & Co Inc.,Cohen Daniel G,16.64,10000,"212,757","166,400",18.12,46,8.894230769
+2020-12-04,DMAC,Diamedica Therapeutics Inc.,Pilnik Richard D.,5.37,10000,"70,846","53,697",9.95,46,85.2886406
+2020-12-04,VBFC,Village Bank & Trust Financial Corp.,Bell Craig D,31,2000,"20,786","62,000",34.95,46,12.74193548
+2020-12-04,VBFC,Village Bank & Trust Financial Corp.,Jenkins Frank E. Jr.,31,2000,"4,652","62,000",34.95,46,12.74193548
+2020-12-04,VBFC,Village Bank & Trust Financial Corp.,Avery Raymond Thomas III,31,1000,"20,253","31,000",34.95,46,12.74193548
+2020-12-03,CERC,Cerecor Inc.,"Armistice Capital, LLC",2.44,20000,"60,681,012","48,800",2.74,47,12.29508197
+2020-12-03,NVDA,Nvidia Corp,Kress Colette,536.95,200,"133,962","107,389",529.12,47,-1.458236335
+2020-12-03,SCX,Starrett L S Co,Riordan Thomas J,4.19,18134,"122,814","75,951",5.04,47,20.28639618
+2020-12-03,LSYN,Liberated Syndication Inc.,Shahinian Eric,3.8,8534,"2,137,333","32,420",5.1,47,34.21052632
+2020-12-03,ATCX,"Atlas Technical Consultants, Inc.",Lemoine Leonard Kyle,6.29,30000,"41,995","188,790",10.04,47,59.61844197
+2020-12-03,ATCX,"Atlas Technical Consultants, Inc.",Powell Walter George,6.81,28500,"289,276","194,045",10.04,47,47.43024963
+2020-12-03,VYNE,Vyne Therapeutics Inc.,Lepore Patrick G,1.71,50000,"50,000","85,425",1.65,47,-3.50877193
+2020-12-03,SUMR,"Summer Infant, Inc.",Wynnefield Partners Small Cap Value LP,16.29,6000,"764,784","97,723",15,47,-7.918968692
+2020-12-03,ACIW,"Aci Worldwide, Inc.",Bobrinskoy Charles K,38.43,2600,"6,968","99,925",38.03,47,-1.0408535
+2020-12-03,PLMR,"Palomar Holdings, Inc.",Taketa Richard H,67,750,"38,352","50,250",101.31,47,51.20895522
+2020-12-03,HMHC,Houghton Mifflin Harcourt Co,Allen Daniel M.,3.39,150000,"150,000","507,882",3.91,47,15.33923304
+2020-12-03,AVT,Avnet Inc,Khaykin Oleg,32.28,9000,"9,000","290,520",38.45,47,19.11400248
+2020-12-03,SMMF,"Summit Financial Group, Inc.",Hinkle Gary L,21.39,3844,"498,676","82,211",23.1,47,7.994389902
+2020-12-03,KNTE,Kinnate Biopharma Inc.,Tananbaum James B.,20,1000000,"125,000","20,000,000",40.05,47,100.25
+2020-12-03,GTYH,Gty Technology Holdings Inc.,Wert Charles,3.56,15000,"74,701","53,350",6.17,47,73.31460674
+2020-12-03,ELYS,"Elys Game Technology, Corp.",Ciavarella Michele,2.91,78000,"4,701,966","226,765",6.5,47,123.3676976
+2020-12-03,BV,"Brightview Holdings, Inc.",Donnelly Thomas C,13.78,5000,"305,008","68,900",15.37,47,11.53846154
+2020-12-03,CNX,Cnx Resources Corp,Rush Donald W.,8.99,5500,"266,726","49,452",13.66,47,51.94660734
+2020-12-03,EPD,Enterprise Products Partners L.P.,Teague Aj,20.07,5025,"2,095,961","100,837",22.99,47,14.54907823
+2020-12-02,SBGI,Sinclair Broadcast Group Inc,Smith Frederick G,28.72,300000,"449,000","8,616,000",33.2,48,15.59888579
+2020-12-02,FL,"Foot Locker, Inc.",Vesa Equity Investment S.A R.L.,38.7,153730,"12,722,406","5,949,351",48.47,48,25.24547804
+2020-12-02,MPLN,Multiplan Corp,August Glenn R,7,826265,"3,351,265","5,782,305",7.63,48,9
+2020-12-02,KNTE,Kinnate Biopharma Inc.,Orbimed Advisors LLC,20,750000,"450,000","15,000,000",40.05,48,100.25
+2020-12-02,CLA,Colonnade Acquisition Corp.,"Glazer Capital, LLC",9.8,10000,"2,499,900","98,000",13.9,48,41.83673469
+2020-12-02,KNTE,Kinnate Biopharma Inc.,Gordon Carl L,20,750000,"450,000","15,000,000",40.05,48,100.25
+2020-12-02,CRNX,"Crinetics Pharmaceuticals, Inc.",Struthers Richard Scott,13,5000,"1,195,805","65,000",14.16,48,8.923076923
+2020-12-02,PBFX,Pbf Logistics LP,Control Empresarial De Capitales S.A. De C.V.,9.51,10000,"7,206,058","95,109",10.49,48,10.30494217
+2020-12-02,PROG,"Progenity, Inc.",Stylli Harry,3.27,152905,"14,616,874","499,999",5.43,48,66.05504587
+2020-12-02,GOGO,Gogo Inc.,Crandall Robert L,10.32,20000,"28,934","206,360",11.9,48,15.31007752
+2020-12-02,STFC,State Auto Financial Corp,Berkey Jason Earl,15.94,5000,"19,831","79,700",18.53,48,16.24843162
+2020-12-02,KHC,Kraft Heinz Co,Sceti Elio Leoni,33.22,90000,"90,000","2,989,630",31.9,48,-3.973509934
+2020-12-02,ORGO,Organogenesis Holdings Inc.,Mackie Wayne D,5.26,38710,"200,000","203,615",9.47,48,80.03802281
+2020-12-02,FNB,Fnb Corp/pa/,Dively Mary Jo,9.12,3000,"47,517","27,360",11.1,48,21.71052632
+2020-12-02,HRL,Hormel Foods Corp /de/,Lykken Steven J,46.97,6873,"33,593","322,815",43.98,48,-6.365765382
+2020-12-02,BKI,"Black Knight, Inc.",Otting Joseph M,90,2222,"4,516","199,980",84.56,48,-6.044444444
+2020-12-02,CVCY,Central Valley Community Bancorp,Ramos Anthony Kenneth,14.34,7000,"7,190","100,392",16.15,48,12.62203626
+2020-12-02,CLSD,"Clearside Biomedical, Inc.",Whitmore Bradford T,1.95,53900,"5,963,241","105,051",4.22,48,116.4102564
+2020-12-01,CNBKA,Century Bancorp Inc,Filler James J,76.5,418,"854,394","31,979",79.25,49,3.594771242
+2020-12-01,ATCX,"Atlas Technical Consultants, Inc.",Quinn David D. Sr.,5.81,75000,"101,766","435,593",10.04,49,72.80550775
+2020-12-01,BSPK,"Bespoke Extracts, Inc.",Pollack Danil,0.01,20000000,"119,000,000","200,000",0.05,49,400
+2020-12-01,FOLD,"Amicus Therapeutics, Inc.",Whitman Burke W,23.5,1500,"38,467","35,250",23.1,49,-1.70212766
+2020-12-01,COTY,Coty Inc.,Singer Robert S,7,5000,"367,482","34,995",7.16,49,2.285714286
+2020-12-01,ATCX,"Atlas Technical Consultants, Inc.",Cappa Gary M.,5.71,50000,"1,227,980","285,663",10.04,49,75.83187391
+2020-12-01,ATCX,"Atlas Technical Consultants, Inc.",Boyer Lonnie Joe,5.48,11000,"724,766","60,330",10.04,49,83.21167883
+2020-12-01,BH,Biglari Holdings Inc.,"Biglari, Sardar",113.98,4333,"1,377,310","493,885",108.98,49,-4.386734515
+2020-12-01,IEP,Icahn Enterprises L.P.,Krongard A B,50.03,16723,"16,723","836,628",56.47,49,12.87227663
+2020-12-01,FPI,Farmland Partners Inc.,Good John A,8.03,10000,"28,265","80,300",9.97,49,24.15940224
+2020-12-01,AMH,American Homes 4 Rent,Hughes B Wayne Et Al,29.05,342000,"18,409,565","9,934,877",29.51,49,1.583476764
+2020-12-01,TESS,Tessco Technologies Inc,Lakeview Investment Group & Trading Co LLC,6.16,39500,"973,191","243,300",7.65,49,24.18831169
+2020-12-01,LSYN,Liberated Syndication Inc.,Shahinian Eric,3.73,60183,"2,128,799","224,541",5.1,49,36.72922252
+2020-12-01,CNX,Cnx Resources Corp,Lanigan Bernard Jr,9.58,62600,"911,435","599,708",13.66,49,42.58872651
+2020-12-01,CNX,Cnx Resources Corp,Shepard Alan K,9.72,2650,"10,463","25,758",13.66,49,40.53497942
+2020-12-01,LSYN,Liberated Syndication Inc.,Heyse Richard,3.72,20000,"120,000","74,495",5.1,49,37.09677419
+2020-12-01,HCHC,"Hc2 Holdings, Inc.",Glazer Avram A,3.45,2600000,"18,677,153","8,963,177",3.42,49,-0.869565217
+2020-12-01,MACK,Merrimack Pharmaceuticals Inc,Levy Noah G.,4,29776,"652,241","119,077",8.13,49,103.25
+2020-12-01,BKH,Black Hills Corp /sd/,McAllister Kathleen S,61.86,2000,"4,839","123,718",60.94,49,-1.487229227
+2020-12-01,RAVE,"Rave Restaurant Group, Inc.",Fendley Clinton Dayne,0.87,34883,"55,716","30,348",0.98,49,12.64367816
+2020-12-01,SMMF,"Summit Financial Group, Inc.",Hinkle Gary L,21.17,4979,"494,832","105,396",23.1,49,9.116674539
+2020-12-01,BZH,Beazer Homes USA Inc,Winkle C Christian,14.64,3775,"31,923","55,266",15.39,49,5.12295082
+2020-12-01,PCB,Pcb Bancorp,Lee Sang Young,10.88,4680,"1,128,080","50,941",10.34,49,-4.963235294
+2020-12-01,NA,Cardinal Ethanol LLC,Baker Robert Nathan,5005.63,27,"1,766","135,152",73.22,49,-98.53724706
+2020-12-01,NA,Cardinal Ethanol LLC,Dersch David Matthew Jr,5110,10,718,"51,100",73.22,49,-98.56712329
+2020-12-01,CTG,Computer Task Group Inc,Sullivan Owen J,6.9,7245,"110,078","49,975",6.57,49,-4.782608696
+2020-12-01,ESP,Espey Mfg & Electronics Corp,Murphy Peggy A,18.29,300000,"300,000","5,487,000",19.75,49,7.982504101
+2020-12-01,ESP,Espey Mfg & Electronics Corp,Pinsley Howard M,18.29,300000,"300,000","5,487,000",19.75,49,7.982504101
+2020-12-01,ATAX,"America First Multifamily Investors, L.P.",Rogozinski Kenneth,4.15,15000,"88,538","62,291",4.31,49,3.855421687
+2020-12-01,WTRH,Waitr Holdings Inc.,Scheinthal Steven L,3.3,15000,"220,744","49,500",3.25,49,-1.515151515
+2020-11-30,LIXT,"Lixte Biotechnology Holdings, Inc.",Ho Hung Tak,4.75,42105,0,"199,999",3.43,50,-27.78947368
+2020-11-30,DRTT,Dirtt Environmental Solutions Ltd,Noll Shaun,2.7,1870269,"10,368,851","5,042,887",2.33,50,-13.7037037
+2020-11-30,LIXT,"Lixte Biotechnology Holdings, Inc.",Schwartzberg Gil,4.75,105264,"1,208,388","500,004",3.43,50,-27.78947368
+2020-11-30,LIXT,"Lixte Biotechnology Holdings, Inc.",Yen Yun,4.75,52632,"52,632","250,002",3.43,50,-27.78947368
+2020-11-30,LIXT,"Lixte Biotechnology Holdings, Inc.",Greenberg Robert,4.75,52632,"994,299","250,002",3.43,50,-27.78947368
+2020-11-30,LIXT,"Lixte Biotechnology Holdings, Inc.",Palmedo Philip F,4.75,21053,"215,389","100,002",3.43,50,-27.78947368
+2020-11-30,LIXT,"Lixte Biotechnology Holdings, Inc.",Forman Stephen J.,4.75,21053,"37,720","100,002",3.43,50,-27.78947368
+2020-11-30,PERS,Sandridge Permian Trust,"Montare Resources I, LLC",0.39,275999,"3,988,744","107,893",0.4,50,2.564102564
+2020-11-30,LIXT,"Lixte Biotechnology Holdings, Inc.",Kovach John S,4.75,21100,"1,540,183","100,225",3.43,50,-27.78947368
+2020-11-30,RAIL,"Freightcar America, Inc.",Meyer James R,2.61,17500,"231,555","45,603",3.11,50,19.15708812
+2020-11-30,AMRN,Amarin Corp Plcuk,Stack David M,4.86,25000,"25,000","121,518",6.18,50,27.16049383
+2020-11-30,CORT,Corcept Therapeutics Inc,Baker G Leonard Jr,22.79,1177,"5,160,196","26,825",27.62,50,21.19350592
+2020-11-30,FL,"Foot Locker, Inc.",Vesa Equity Investment S.A R.L.,37.9,994699,"12,568,676","37,699,486",48.47,50,27.88918206
+2020-11-30,BTN,"Ballantyne Strong, Inc.","Fundamental Global Investors, LLC",1.96,21942,"5,156,376","43,086",2.1,50,7.142857143
+2020-11-30,FTK,Flotek Industries Inc/cn/,Nierenberg David,2.05,49231,"4,684,632","100,924",1.88,50,-8.292682927
+2020-11-30,FRD,Friedman Industries Inc,Taylor Mike J,6.37,10000,"110,000","63,700",7.26,50,13.97174254
+2020-11-30,QUOT,Quotient Technology Inc.,Gessow Andrew J,7.4,5000,"337,454","37,000",9.92,50,34.05405405
+2020-11-30,AAT,"American Assets Trust, Inc.",Rady Ernest S,28.99,50089,"10,212,805","1,452,131",28.73,50,-0.896860987
+2020-11-30,SYNL,Synalloy Corp,Privet Fund Management LLC,5.92,12421,"1,576,018","73,486",8.89,50,50.16891892
+2020-11-30,ISR,"Isoray, Inc.",Woods Lori A,0.38,68000,"658,576","25,534",2.01,50,428.9473684
+2020-11-30,KRMD,Repro Med Systems Inc,Manko Joseph M. Jr.,4.56,10000,"11,843,458","45,599",5.42,50,18.85964912
+2020-11-30,JMP,Jmp Group LLC,Wedbush Securities Inc,3,16151,"2,014,701","48,427",4.1,50,36.66666667
+2020-11-30,CHMA,"Chiasma, Inc",Stack David M,4.27,25000,"25,000","106,858",3.97,50,-7.025761124
+2020-11-30,BIIB,Biogen Inc.,Vounatsos Michel,241.31,3100,"34,810","748,047",280,50,16.03331814
+2020-11-30,SPOK,"Spok Holdings, Inc",Stein Todd J,9.79,2600,"1,077,413","25,444",12.15,50,24.10623085
+2020-11-30,PSTI,Pluristem Therapeutics Inc,Clover Wolf Capital - Limited Partnership,9.7,20000,"4,077,589","194,000",8.11,50,-16.39175258
+2020-11-30,KRMD,Repro Med Systems Inc,Fletcher R John,4.48,22327,"51,325","100,089",5.42,50,20.98214286
+2020-11-30,STFC,State Auto Financial Corp,Garland Kim Burton,15.12,7853,"144,811","118,737",18.53,50,22.55291005
+2020-11-30,STFC,State Auto Financial Corp,Larocco Michael,15,5000,0,"75,000",18.53,50,23.53333333
+2020-11-30,EIG,"Employers Holdings, Inc.",Kroner James R,30.78,3200,"23,765","98,496",32.73,50,6.335282651
+2020-11-30,FTK,Flotek Industries Inc/cn/,Agadi Harshavardhan V,2.07,40000,"92,500","82,800",1.88,50,-9.178743961
+2020-11-27,FL,"Foot Locker, Inc.",Vesa Equity Investment S.A R.L.,38.16,342840,"11,573,977","13,082,774",48.47,53,27.01781971
+2020-11-27,RBCAA,Republic Bancorp Inc /ky/,Feaster David P,37.74,1000,"1,302","37,740",38.92,53,3.126656068
+2020-11-27,SREV,"Servicesource International, Inc.","Edenbrook Capital, LLC",1.3,4706139,"18,317,265","6,117,981",1.58,53,21.53846154
+2020-11-27,COTY,Coty Inc.,Singer Robert S,6.8,5000,"362,482","34,000",7.16,53,5.294117647
+2020-11-27,PCB,Pcb Bancorp,Lee Sang Young,10.89,7006,"1,123,400","76,315",10.34,53,-5.050505051
+2020-11-27,TRST,Trustco Bank Corp N Y,Leonard Robert M,6.21,7252,"115,121","45,035",7.16,53,15.2979066
+2020-11-27,ELYS,"Elys Game Technology, Corp.",Ciavarella Michele,2.09,78000,"4,394,525","163,185",6.5,53,211.0047847
+2020-11-25,RAIL,"Freightcar America, Inc.",Meyer James R,2.13,27500,"214,055","58,567",3.11,55,46.00938967
+2020-11-25,BH,Biglari Holdings Inc.,"Biglari, Sardar",111.99,5302,"1,372,977","593,750",108.98,55,-2.687739977
+2020-11-25,JMP,Jmp Group LLC,Johnson Craig R,2.99,15000,"1,364,694","44,794",4.1,55,37.12374582
+2020-11-25,MRVI,"Maravai Lifesciences Holdings, Inc.",Hull Carl,26.94,35000,"35,000","942,900",27.94,55,3.711952487
+2020-11-25,FBMS,First Bancshares Inc /ms/,Stetelman Andrew D,29.07,1015,"107,244","29,504",33.63,55,15.68627451
+2020-11-25,DOOR,Masonite International Corp,Steinfeld Jay IRA,100.99,500,500,"50,495",94.47,55,-6.456084761
+2020-11-25,UBCP,United Bancorp Inc /oh/,Glessner Gary W,12.32,3193,"58,777","39,338",13.15,55,6.737012987
+2020-11-25,LMNX,Luminex Corp,Eck Stephen L.,22.4,4487,"37,807","100,501",27.81,55,24.15178571
+2020-11-25,VIVO,Meridian Bioscience Inc,Bihl Anthony P III,17.65,5000,"10,851","88,266",22.02,55,24.7592068
+2020-11-25,COTY,Coty Inc.,Singer Robert S,7.14,17500,"357,482","124,955",7.16,55,0.280112045
+2020-11-25,ELYS,"Elys Game Technology, Corp.",Ciavarella Michele,1.62,21000,"4,545,966","33,982",6.5,55,301.2345679
+2020-11-25,KDP,Keurig Dr Pepper Inc.,Singer Robert S,30.21,7500,"73,000","226,562",31.48,55,4.203905991
+2020-11-25,COTY,Coty Inc.,Goudet Olivier,7.1,50000,"479,129","355,175",7.16,55,0.845070423
+2020-11-25,SFT,"Shift Technologies, Inc.",Foy Sean,8.1,12500,"138,301","101,225",8.47,55,4.567901235
+2020-11-25,JMP,Jmp Group LLC,Johnson Craig R,2.98,10000,"1,349,694","29,794",4.1,55,37.58389262
+2020-11-25,DTRC,Dakota Territory Resource Corp,Morrison Alex G,0.48,156250,"406,250","75,000",0.44,55,-8.333333333
+2020-11-24,IBTX,"Independent Bank Group, Inc.",Harrison Alicia Kuhn,58.88,4075,"6,645","239,953",67.77,56,15.09850543
+2020-11-24,PERS,Sandridge Permian Trust,"Montare Resources I, LLC",0.38,439930,"3,712,745","166,830",0.4,56,5.263157895
+2020-11-24,FL,"Foot Locker, Inc.",Vesa Equity Investment S.A R.L.,38.65,509575,"11,231,137","19,696,769",48.47,56,25.40750323
+2020-11-24,BLFS,Biolife Solutions Inc,"Casdin Partners Master Fund, L.P.",22.5,1600000,"7,440,107","36,000,000",42.12,56,87.2
+2020-11-24,UEPS,Net 1 Ueps Technologies Inc,Ball Antony C,3.39,88911,"11,154,943","301,408",4.64,56,36.87315634
+2020-11-24,UEPS,Net 1 Ueps Technologies Inc,Value Capital Partners (Pty) Ltd,3.39,88911,"11,154,943","301,408",4.64,56,36.87315634
+2020-11-24,LAZY,"Lazydays Holdings, Inc.","Coliseum Capital Management, LLC",14.36,9678,"731,040","138,976",18.2,56,26.74094708
+2020-11-24,MACK,Merrimack Pharmaceuticals Inc,Levy Noah G.,3.65,69087,"639,824","252,168",8.13,56,122.739726
+2020-11-24,MACK,Merrimack Pharmaceuticals Inc,Andersen Eric,3.65,69088,"315,757","252,171",8.13,56,122.739726
+2020-11-24,TESS,Tessco Technologies Inc,Lakeview Investment Group & Trading Co LLC,6.11,27584,"933,691","168,669",7.65,56,25.20458265
+2020-11-24,STON,Stonemor Inc.,Miller David,1.3,31417,"937,362","40,761",3.65,56,180.7692308
+2020-11-24,BFC,Bank First Corp,Bourbulas Mary Kay,67.85,1200,"2,145","81,420",67.49,56,-0.530582167
+2020-11-24,HQI,"Hirequest, Inc.",Hagenbuch Lawrence F,9.15,6408,"60,971","58,633",10.22,56,11.69398907
+2020-11-24,MRVI,"Maravai Lifesciences Holdings, Inc.",Gray Susannah,27,20000,"31,852","540,000",27.94,56,3.481481481
+2020-11-24,MRVI,"Maravai Lifesciences Holdings, Inc.",Sellers Lisa,27,18888,"18,888","509,976",27.94,56,3.481481481
+2020-11-24,MRVI,"Maravai Lifesciences Holdings, Inc.",Hance Robert B,27,10000,"21,852","270,000",27.94,56,3.481481481
+2020-11-24,MRVI,"Maravai Lifesciences Holdings, Inc.",Prahalad Murali,27,18000,"29,852","486,000",27.94,56,3.481481481
+2020-11-24,MRVI,"Maravai Lifesciences Holdings, Inc.",Lucier Gregory T,27,15000,"26,852","405,000",27.94,56,3.481481481
+2020-11-24,MRVI,"Maravai Lifesciences Holdings, Inc.",Hopfield Jessica,27,50000,"61,852","1,350,000",27.94,56,3.481481481
+2020-11-24,MRVI,"Maravai Lifesciences Holdings, Inc.",Oreshack Kurt,27,7500,"7,500","202,500",27.94,56,3.481481481
+2020-11-24,CF,"Cf Industries Holdings, Inc.",White Celso L.,38.03,815,"11,191","31,000",45.17,56,18.77465159
+2020-11-24,STOK,"Stoke Therapeutics, Inc.",Harrison Seth Loring,39,375000,"17,161,713","14,625,000",64.44,56,65.23076923
+2020-11-24,STOK,"Stoke Therapeutics, Inc.","Apple Tree Partners Iv, L.P.",39,375000,"17,161,713","14,625,000",64.44,56,65.23076923
+2020-11-24,NREF,"Nexpoint Real Estate Finance, Inc.",Wood Catherine D,16.15,3232,"3,232","52,197",16.98,56,5.139318885
+2020-11-24,CUE,"Cue Biopharma, Inc.",Fletcher Aaron G.L.,12.64,6548,"173,867","82,776",12.62,56,-0.158227848
+2020-11-24,OGEN,Oragenics Inc,Telling Fred,0.37,100000,"439,538","37,000",0.96,56,159.4594595
+2020-11-24,SAFT,Safety Insurance Group Inc,Lindeberg Frederic H,74.5,2800,"24,800","208,600",78.89,56,5.89261745
+2020-11-24,NTWK,Netsol Technologies Inc,Ghauri Najeeb,2.98,10000,"766,901","29,800",4.39,56,47.31543624
+2020-11-24,BZH,Beazer Homes USA Inc,Winkle C Christian,14.99,3735,"18,971","55,987",15.39,56,2.66844563
+2020-11-24,COTY,Coty Inc.,Singer Robert S,7.26,5000,"339,982","36,280",7.16,56,-1.377410468
+2020-11-24,CLSD,"Clearside Biomedical, Inc.",Whitmore Bradford T,1.65,62000,"5,909,341","102,046",4.22,56,155.7575758
+2020-11-24,VTVT,Vtv Therapeutics Inc.,Perelman Ronald O,1.6,625000,"35,356,212","1,000,000",2.17,56,35.625
+2020-11-24,TFFP,"Tff Pharmaceuticals, Inc.",Fletcher Aaron G.L.,15.13,5000,"100,000","75,656",18.15,56,19.96034369
+2020-11-23,BKYI,Bio Key International Inc,Sullivan James David,3.31,10000,"14,125","33,050",3.85,57,16.3141994
+2020-11-23,CYAN,Cyanotech Corp,Davis Michael A /,2.58,41845,"1,175,827","107,960",3.22,57,24.80620155
+2020-11-23,CERC,Cerecor Inc.,"Armistice Capital, LLC",2.37,100000,"60,641,012","236,869",2.74,57,15.61181435
+2020-11-23,WSTG,"Wayside Technology Group, Inc.",Geygan Jeffrey Richart Geygan,21.06,3195,"145,945","67,287",18.89,57,-10.30389364
+2020-11-23,TURN,180 Degree Capital Corp. /ny/,Rendino Kevin,1.93,16400,"962,531","31,652",6.51,57,237.3056995
+2020-11-23,FTK,Flotek Industries Inc/cn/,Nierenberg David,1.99,149560,"4,635,401","297,624",1.88,57,-5.527638191
+2020-11-23,CKX,"Ckx Lands, Inc.",Stream William Gray,9.25,7764,"66,503","71,817",9.15,57,-1.081081081
+2020-11-23,SFT,"Shift Technologies, Inc.",Arison George,6.72,15000,"1,095,784","100,764",8.47,57,26.04166667
+2020-11-23,LIVX,"Livexlive Media, Inc.",Ellin Robert S,2.19,18867,"17,436,094","41,298",3.83,57,74.88584475
+2020-11-23,CORT,Corcept Therapeutics Inc,Baker G Leonard Jr,22.93,2980,"5,158,658","68,328",27.62,57,20.4535543
+2020-11-23,ATEX,Anterix Inc.,Daniels Leslie B,28.5,2000,"21,072","57,000",37.77,57,32.52631579
+2020-11-23,CHMA,"Chiasma, Inc",Kannan Raj,4,120000,"137,095","480,492",3.97,57,-0.75
+2020-11-23,QRTEA,"Qurate Retail, Inc.",Wendling Brian J,99.15,2000,"5,091","198,300",12.21,57,-87.68532526
+2020-11-23,CRTD,"Creatd, Inc.",Patterson Mark Richard,3.05,20000,"105,732","60,951",4.44,57,45.57377049
+2020-11-23,PTVE,Pactiv Evergreen Inc.,Hugli Allen,15.97,10000,"25,000","159,664",16.07,57,0.626174076
+2020-11-23,MGTX,Meiragtx Holdings Plc,Perceptive Advisors LLC,12.85,500000,"6,933,277","6,425,000",16.78,57,30.58365759
+2020-11-23,BHVN,Biohaven Pharmaceutical Holding Co Ltd.,Childs John W,89.55,5000,"2,526,938","447,737",91.24,57,1.887213847
+2020-11-23,OLMA,"Olema Pharmaceuticals, Inc.","Cormorant Asset Management, LP",19,425000,"3,270,544","8,075,000",41.46,57,118.2105263
+2020-11-23,OLMA,"Olema Pharmaceuticals, Inc.",Graham G. Walmsley,19,1160000,"1,160,000","22,040,000",41.46,57,118.2105263
+2020-11-20,HWKE,"Hawkeye Systems, Inc.",Marshall Corby,0.35,515000,"3,382,000","180,250",0.4,60,14.28571429
+2020-11-20,FTSI,"Fts International, Inc.","Thrc Holdings, LP",15.51,776280,"2,750,000","12,037,912",19,60,22.50161186
+2020-11-20,ALK,"Alaska Air Group, Inc.",Knight Jessie J Jr,47.35,855,"2,221","40,483",55.53,60,17.27560718
+2020-11-20,ISNS,Image Sensing Systems Inc,Daly Joseph Patrick,4.19,13565,"69,208","56,783",4.54,60,8.353221957
+2020-11-20,HWKE,"Hawkeye Systems, Inc.",Marshall Corby,0.35,515000,"3,382,000","180,250",0.4,60,14.28571429
+2020-11-20,FTSI,"Fts International, Inc.","Thrc Holdings, LP",15.51,776280,"2,750,000","12,037,912",19,60,22.50161186
+2020-11-20,FTSI,"Fts International, Inc.","Thrc Holdings, LP",15.33,876280,"2,750,000","13,435,452",19,60,23.93998695
+2020-11-20,BH,Biglari Holdings Inc.,"Biglari, Sardar",109.67,23613,"1,367,675","2,589,523",108.98,60,-0.629160208
+2020-11-20,CASI,"Casi Pharmaceuticals, Inc.",He Wei-Wu,2.15,227471,"13,037,413","488,239",3.36,60,56.27906977
+2020-11-20,JMP,Jmp Group LLC,Wedbush Securities Inc,2.66,17750,"1,993,000","47,204",4.1,60,54.13533835
+2020-11-20,CLRO,Clearone Inc,Bagley Edward D,1.98,15000,"8,300,649","29,630",2.39,60,20.70707071
+2020-11-20,CNO,"Cno Financial Group, Inc.",McDonough Paul H.,20.85,10000,"45,296","208,517",23.16,60,11.07913669
+2020-11-20,ADMQ,"Adm Endeavors, Inc.",Johnson Marc,0.07,431794,"61,379,999","28,128",0.09,60,28.57142857
+2020-11-20,JMP,Jmp Group LLC,Johnson Craig R,2.75,25000,"1,339,694","68,827",4.1,60,49.09090909
+2020-11-20,COTY,Coty Inc.,Huth Johannes P,6.2,1000000,"1,000,000","6,199,000",7.16,60,15.48387097
+2020-11-20,FLXS,Flexsteel Industries Inc,Schmidt Derek P,25.46,11135,"140,667","283,497",35.77,60,40.49489395
+2020-11-20,CRTD,"Creatd, Inc.",Patterson Mark Richard,3.1,10000,"95,732","30,993",4.44,60,43.22580645
+2020-11-20,MYE,Myers Industries Inc,Coffin Sarah R,17.6,2500,"29,379","44,000",22.06,60,25.34090909
+2020-11-20,BRG,"Bluerock Residential Growth Reit, Inc.",Vohs Christopher J.,22.5,2500,"5,000","56,250",11.37,60,-49.46666667
+2020-11-20,DMAC,Diamedica Therapeutics Inc.,Giuffre Randall Michael,4.26,15000,"189,009","63,912",9.95,60,133.5680751
+2020-11-20,ORI,Old Republic International Corp,Kennedy Michael Denard,18.05,1494,"1,494","26,967",18.75,60,3.878116343
+2020-11-20,BW,"Babcock & Wilcox Enterprises, Inc.",Young Kenneth M,3.1,15000,"94,240","46,473",4.68,60,50.96774194
+2020-11-20,ISNS,Image Sensing Systems Inc,Daly Joseph Patrick,4.19,13565,"68,208","56,783",4.54,60,8.353221957
+2020-11-20,TMP,Tompkins Financial Corp,Rahily Ita M,65.65,609,"2,015","39,997",75.41,60,14.86671744
+2020-11-20,LAZY,"Lazydays Holdings, Inc.",Murnane William P,13.25,2500,"205,999","33,125",18.2,60,37.35849057
+2020-11-20,REKR,"Rekor Systems, Inc.",Debary Paul,4.12,10000,"20,000","41,215",8.93,60,116.7475728
+2020-11-20,LODE,Comstock Mining Inc.,Drozdoff Leo M,0.99,50000,"171,240","49,500",1.27,60,28.28282828
+2020-11-20,OAS,Oasis Petroleum Inc.,Brooks Douglas E,29.71,3360,"3,360","99,826",45.16,60,52.0026927
+2020-11-20,EEX,"Emerald Holding, Inc.",Field Brian,3.89,13661,"84,242","53,141",4.49,60,15.42416452
+2020-11-20,FLXS,Flexsteel Industries Inc,Kaness Matthew,27.28,7000,"33,282","190,960",35.77,60,31.12170088
+2020-11-20,YORW,York Water Co,Keller Jody L,46.53,537,"3,169","25,000",46.25,60,-0.601762304
+2020-11-19,TLS,Telos Corp,Schaufeld Fredrick,17,255449,"255,449","4,342,633",34.61,61,103.5882353
+2020-11-19,ALSK,Alaska Communications Systems Group Inc,Ross Brian A,3.1,160284,0,"496,769",3.27,61,5.483870968
+2020-11-19,COTY,Coty Inc.,Parize Isabelle,6.13,10000,"10,000","61,300",7.16,61,16.80261011
+2020-11-19,BDGE,"Bridge Bancorp, Inc.","Mgs Partners, LLC",21.41,21496,"359,308","460,229",27.25,61,27.27697338
+2020-11-19,TLS,Telos Corp,Schaufeld Fredrick,17,255449,"255,449","4,342,633",34.61,61,103.5882353
+2020-11-19,TLS,Telos Corp,Schaufeld Fredrick,17,262532,"262,532","4,463,044",34.61,61,103.5882353
+2020-11-19,PRTY,Party City Holdco Inc.,Sosin Clifford,4,1600000,"15,263,623","6,399,840",7.12,61,78
+2020-11-19,DHR,Danaher Corp /de/,Rales Mitchell P,226.14,26784,"35,493,284","6,056,934",236.7,61,4.669673653
+2020-11-19,KDNY,"Chinook Therapeutics, Inc.",Dobmeier Eric,13.63,2000,"52,837","27,266",15.56,61,14.15994131
+2020-11-19,TESS,Tessco Technologies Inc,Lakeview Investment Group & Trading Co LLC,5.84,21000,"906,107","122,570",7.65,61,30.99315068
+2020-11-19,COTY,Coty Inc.,Singer Robert S,6.01,15000,"334,982","90,139",7.16,61,19.13477537
+2020-11-19,RMED,"Ra Medical Systems, Inc.",Enquist William R,5.82,5263,"12,786","30,622",7.08,61,21.64948454
+2020-11-19,PERS,Sandridge Permian Trust,"Montare Resources I, LLC",0.36,91298,"3,272,815","32,785",0.4,61,11.11111111
+2020-11-19,PAND,"Pandion Therapeutics, Inc.",Becker Daniel J.,15.12,197716,"2,827,883","2,989,466",18.71,61,23.74338624
+2020-11-19,MGY,Magnolia Oil & Gas Corp,Chazen Stephen I,5.77,40000,"6,989,245","230,924",8.73,61,51.29982669
+2020-11-19,ALPN,"Alpine Immune Sciences, Inc.",Conway Robert E,8.03,10000,"25,000","80,300",13.79,61,71.73100872
+2020-11-19,SELF,"Global Self Storage, Inc.",Winmill Mark Campbell,4,10000,"131,975","39,998",4.03,61,0.75
+2020-11-19,HRTH,Harte Hanks Inc,Benett Andrew B,2.4,40000,"413,500","96,000",2.7,61,12.5
+2020-11-19,LIVX,"Livexlive Media, Inc.",Ellin Robert S,1.93,43853,"17,417,227","84,555",3.83,61,98.44559585
+2020-11-19,OLMA,"Olema Pharmaceuticals, Inc.",Bvf Partners L P/il,19,1135334,"436,082","21,571,346",41.46,61,118.2105263
+2020-11-19,ZGNX,"Zogenix, Inc.",Garner Cam L,20.13,8000,"56,843","161,042",18.93,61,-5.961251863
+2020-11-19,EML,Eastern Co,Mitarotonda James A,22.26,2600,"595,749","57,871",25.35,61,13.88140162
+2020-11-19,CNO,"Cno Financial Group, Inc.",Shebik Steven E,20.71,4000,"7,431","82,827",23.16,61,11.8300338
+2020-11-19,RAPT,"Rapt Therapeutics, Inc.",Rieflin William Jl,16.22,10000,"94,722","162,200",21.05,61,29.77805179
+2020-11-19,STFC,State Auto Financial Corp,Garland Kim Burton,15.25,2464,"135,496","37,576",18.53,61,21.50819672
+2020-11-19,FCF,First Commonwealth Financial Corp /pa/,Price T Michael,9.96,10000,"250,339","99,600",12.57,61,26.20481928
+2020-11-19,RILY,"B. Riley Financial, Inc.",Riley Bryant R,32.53,15000,"5,362,997","487,985",48.95,61,50.47648325
+2020-11-19,RMED,"Ra Medical Systems, Inc.",Stafslien Joan,5.67,4410,"9,410","25,002",7.08,61,24.86772487
+2020-11-19,RMED,"Ra Medical Systems, Inc.",Colombatto Martin J,5.78,8700,"16,939","50,279",7.08,61,22.49134948
+2020-11-19,BMTC,Bryn Mawr Bank Corp,Laplante Michael,30.2,1500,"1,500","45,300",33.6,61,11.25827815
+2020-11-19,REYN,Reynolds Consumer Products Inc.,Cole Gregory Alan,29.78,7000,"10,000","208,462",29.05,61,-2.451309604
+2020-11-19,REYN,Reynolds Consumer Products Inc.,Graham Michael E.,29.37,2600,"2,600","76,367",29.05,61,-1.089547157
+2020-11-19,MYE,Myers Industries Inc,Lutey Lori A.,17.02,10000,"16,237","170,200",22.06,61,29.61222092
+2020-11-19,IHRT,"Iheartmedia, Inc.",Pittman Robert W,10.15,20000,"558,381","202,952",13.31,61,31.13300493
+2020-11-18,PLXP,Plx Pharma Inc.,Valentino Michael J,3.79,264900,"461,690","1,003,176",5.86,62,54.61741425
+2020-11-18,CAR,"Avis Budget Group, Inc.","Srs Investment Management, LLC",35.09,104900,"18,303,324","3,681,318",38.51,62,9.746366486
+2020-11-18,UEPS,Net 1 Ueps Technologies Inc,Ball Antony C,3.38,135574,"11,059,032","458,186",4.64,62,37.27810651
+2020-11-18,UEPS,Net 1 Ueps Technologies Inc,Value Capital Partners (Pty) Ltd,3.38,135574,"11,059,032","458,186",4.64,62,37.27810651
+2020-11-18,AWRE,Aware Inc /ma/,Barcelo David Brian,2.74,15000,"10,000","41,150",4.46,62,62.77372263
+2020-11-18,AWRE,Aware Inc /ma/,Eckel Robert A,2.79,10000,"117,422","27,895",4.46,62,59.85663082
+2020-11-18,RYES,Rise Gold Corp.,Lepard Lawrence Ward,0.75,66667,"2,256,531","50,000",0.59,62,-21.33333333
+2020-11-18,AAT,"American Assets Trust, Inc.",Rady Ernest S,28.77,2194,"10,162,716","63,122",28.73,62,-0.139033716
+2020-11-18,ISNS,Image Sensing Systems Inc,Daly Joseph Patrick,4.16,15535,"55,643","64,681",4.54,62,9.134615385
+2020-11-18,HOFV,Hall of Fame Resort & Entertainment Co,Dolan James J.,1.39,60000,"1,695,772","83,400",1.87,62,34.5323741
+2020-11-18,HOFV,Hall of Fame Resort & Entertainment Co,Schaefer Kimberly,1.39,27500,"35,000","38,225",1.87,62,34.5323741
+2020-11-18,HOFV,Hall of Fame Resort & Entertainment Co,Lichter Stuart,1.39,100000,"19,442,442","139,000",1.87,62,34.5323741
+2020-11-18,HOFV,Hall of Fame Resort & Entertainment Co,Crawford Michael Anthony,1.39,58500,"812,929","81,315",1.87,62,34.5323741
+2020-11-18,CORT,Corcept Therapeutics Inc,Baker G Leonard Jr,17.91,2372,"5,155,678","42,491",27.62,62,54.21552205
+2020-11-18,BMTC,Bryn Mawr Bank Corp,Harrington Michael W,30.43,3000,"18,237","91,290",33.6,62,10.4173513
+2020-11-18,REZI,"Resideo Technologies, Inc.",Lazar Jack R,15,6666,"43,052","99,990",24.76,62,65.06666667
+2020-11-18,REZI,"Resideo Technologies, Inc.",Richardson Nina,15,3333,"19,630","49,995",24.76,62,65.06666667
+2020-11-18,REZI,"Resideo Technologies, Inc.",Fradin Roger,15,6666,"180,573","99,990",24.76,62,65.06666667
+2020-11-18,GSKY,"Greensky, Inc.",Kelly Dennis I,4.07,27000,"452,805","109,944",5,62,22.85012285
+2020-11-18,GTHX,"G1 Therapeutics, Inc.",Muir Glenn P,13.5,50000,"170,969","675,000",20.6,62,52.59259259
+2020-11-18,MBI,Mbia Inc,Fallon William C,6.17,100000,"2,397,108","617,000",7.16,62,16.04538088
+2020-11-18,SFT,"Shift Technologies, Inc.",McInnis Victoria,6.72,15000,"15,000","100,800",8.47,62,26.04166667
+2020-11-18,SPOK,"Spok Holdings, Inc",Kelly Vincent D,9.83,10000,"377,108","98,321",12.15,62,23.60122075
+2020-11-18,PCB,Pcb Bancorp,Lee Sang Young,10.93,7100,"1,115,171","77,602",10.34,62,-5.397987191
+2020-11-18,BWB,Bridgewater Bancshares Inc,Salazar Lisa M,11.84,6900,"10,900","81,695",13.11,62,10.72635135
+2020-11-18,EPD,Enterprise Products Partners L.P.,Rutherford John R,19.22,4000,"28,358","76,880",22.99,62,19.61498439
+2020-11-17,YMAB,"Y-Mabs Therapeutics, Inc.",Rajah Vignesh,46.47,1697,"3,161","78,853",48.54,63,4.454486766
+2020-11-17,CLRO,Clearone Inc,Bagley Edward D,1.89,31706,"8,285,649","59,885",2.39,63,26.45502646
+2020-11-17,PAND,"Pandion Therapeutics, Inc.",Becker Daniel J.,15.29,29394,"2,630,167","449,400",18.71,63,22.3675605
+2020-11-17,ORGO,Organogenesis Holdings Inc.,"Avista Capital Managing Member Iv, LLC",3.29,4404162,"29,921,676","14,500,672",9.47,63,187.8419453
+2020-11-17,MPLN,Multiplan Corp,Galant Paul,7.09,28550,"28,550","202,296",7.63,63,7.616361072
+2020-11-17,ORGO,Organogenesis Holdings Inc.,Katz Michael W,3.25,20829,"34,432","67,694",9.47,63,191.3846154
+2020-11-17,SBH,"Sally Beauty Holdings, Inc.",Rabin Edward W,10.89,8000,"181,076","87,099",13.36,63,22.68135904
+2020-11-17,ORGO,Organogenesis Holdings Inc.,Mackie Wayne D,3.25,42726,"161,290","138,860",9.47,63,191.3846154
+2020-11-17,ORGO,Organogenesis Holdings Inc.,Nussdorf Glenn H,3.25,833153,"137,242,799","2,707,747",9.47,63,191.3846154
+2020-11-17,ORGO,Organogenesis Holdings Inc.,Ades Alan A.,3.25,833153,"137,242,799","2,707,747",9.47,63,191.3846154
+2020-11-17,KROS,"Keros Therapeutics, Inc.",Nussbaum Ran,50,60000,"155,262","3,000,000",75.02,63,50.04
+2020-11-17,KROS,"Keros Therapeutics, Inc.",Kariv Tomer,50,60000,"155,262","3,000,000",75.02,63,50.04
+2020-11-17,NHLD,National Holdings Corp,Asher Daniel,2.69,20769,"2,871,270","55,879",3.32,63,23.42007435
+2020-11-17,KROS,"Keros Therapeutics, Inc.",Pontifax Management 4 G.P. (2015) Ltd.,50,60000,"155,262","3,000,000",75.02,63,50.04
+2020-11-17,TAST,"Carrols Restaurant Group, Inc.",Perelman Matthew Terker,5.25,56300,"14,921,139","295,552",6.96,63,32.57142857
+2020-11-17,MYE,Myers Industries Inc,McGaugh Michael,16.96,2500,"52,500","42,410",22.06,63,30.07075472
+2020-11-17,DCTH,"Delcath Systems, Inc.","Rosalind Advisors, Inc.",12.11,2500,"191,500","30,280",16.88,63,39.38893476
+2020-11-17,NHI,National Health Investors Inc,Adams Robert G,66.35,5000,"629,490","331,770",66.94,63,0.889223813
+2020-11-17,BSGM,"Biosig Technologies, Inc.",Londoner Kenneth L,3.92,8500,"2,520,882","33,300",5.36,63,36.73469388
+2020-11-17,ATRC,"Atricure, Inc.",Drake Scott William,40.54,12350,"41,036","500,669",57.37,63,41.51455353
+2020-11-17,WSTG,"Wayside Technology Group, Inc.",McCarthy John R,20.87,2400,"7,505","50,097",18.89,63,-9.487302348
+2020-11-17,BZH,Beazer Homes USA Inc,Winkle C Christian,14.02,5950,"24,413","83,418",15.39,63,9.771754636
+2020-11-17,CTGO,"Contango Ore, Inc.",Van Nieuwenhuyse Rick,15,70000,"220,472","1,050,000",16.75,63,11.66666667
+2020-11-17,TEN,Tenneco Inc,Stroup John S,8.87,22623,"27,189","200,666",10.82,63,21.98421646
+2020-11-17,PGRE,"Paramount Group, Inc.",Armbrust Thomas,9.43,5000,"187,265","47,150",9.03,63,-4.241781548
+2020-11-17,GCP,Gcp Applied Technologies Inc.,Lauzon Armand F Jr,24.36,16000,"21,437","389,728",24.88,63,2.134646962
+2020-11-17,ALTG,Alta Equipment Group Inc.,Shribman Daniel,8.75,12000,"338,985","105,000",10,63,14.28571429
+2020-11-17,ALTG,Alta Equipment Group Inc.,Studdert Andrew P,8.59,5000,"15,526","42,930",10,63,16.41443539
+2020-11-17,PGRE,"Paramount Group, Inc.",Behler Albert P.,9.65,20000,"131,812","193,000",9.03,63,-6.424870466
+2020-11-17,MOFG,"Midwestone Financial Group, Inc.",Devaisher Len D,24.25,2000,"4,957","48,500",26.69,63,10.06185567
+2020-11-17,MPLN,Multiplan Corp,Klein Michael Stuart,7.04,700000,"30,122,711","4,925,900",7.63,63,8.380681818
+2020-11-17,TRST,Trustco Bank Corp N Y,Silverman Frank B,6.21,5000,"15,000","31,050",7.16,63,15.2979066
+2020-11-17,MFNC,Mackinac Financial Corp /mi/,Thomson Martin A,12.5,2400,"48,791","30,000",13.82,63,10.56
+2020-11-17,XXII,"22Nd Century Group, Inc.",Mish James A,0.93,100000,"250,000","92,800",2.9,63,211.827957
+2020-11-17,SBH,"Sally Beauty Holdings, Inc.",Brickman Christian A.,10.94,11350,"457,571","124,145",13.36,63,22.12065814
+2020-11-17,DCTH,"Delcath Systems, Inc.",Salamon Steven A J,12.11,2500,"189,500","30,280",16.88,63,39.38893476
+2020-11-16,CNBKA,Century Bancorp Inc,Filler James J,77.76,1687,"853,976","131,179",79.25,64,1.916152263
+2020-11-16,SRT,"Startek, Inc.",Sharda Mukesh,7.02,206814,"480,878","1,451,834",8.14,64,15.95441595
+2020-11-16,SRT,"Startek, Inc.",Rao Bharat,7.02,206814,"480,878","1,451,834",8.14,64,15.95441595
+2020-11-16,PERS,Sandridge Permian Trust,"Montare Resources I, LLC",0.36,451730,"3,181,517","162,231",0.4,64,11.11111111
+2020-11-16,BTN,"Ballantyne Strong, Inc.","Fundamental Global Investors, LLC",1.8,38722,"5,111,126","69,583",2.1,64,16.66666667
+2020-11-16,EOSE,"Eos Energy Enterprises, Inc.","B. Riley Financial, Inc.",10,2361236,"6,571,279","23,622,340",24.1,64,141
+2020-11-16,FFIC,Flushing Financial Corp,Buran John R,13.64,2000,"186,580","27,280",18.71,64,37.17008798
+2020-11-16,UEPS,Net 1 Ueps Technologies Inc,Value Capital Partners (Pty) Ltd,3.37,185148,"10,923,458","624,686",4.64,64,37.68545994
+2020-11-16,UEPS,Net 1 Ueps Technologies Inc,Ball Antony C,3.37,185148,"10,923,458","624,686",4.64,64,37.68545994
+2020-11-16,CINF,Cincinnati Financial Corp,Aaron Thomas J,79.68,2500,"4,669","199,207",93.48,64,17.31927711
+2020-11-16,INTT,Intest Corp,Dews Joseph W IV,5.17,9365,"60,365","48,457",6.99,64,35.20309478
+2020-11-16,FXNC,First National Corp /va/,Smith Gerald F Jr,14.39,2000,"86,255","28,788",17.5,64,21.61223072
+2020-11-16,ISNS,Image Sensing Systems Inc,Daly Joseph Patrick,4.06,25070,"40,108","101,798",4.54,64,11.8226601
+2020-11-16,BH,Biglari Holdings Inc.,"Biglari, Sardar",102.84,37059,"1,344,062","3,811,068",108.98,64,5.970439518
+2020-11-16,WTRH,Waitr Holdings Inc.,Ortale Buford H,2.75,266113,"266,113","731,811",3.25,64,18.18181818
+2020-11-16,COTY,Coty Inc.,Singer Robert S,4.96,25000,"319,982","124,088",7.16,64,44.35483871
+2020-11-16,ECPG,Encore Capital Group Inc,Hannam Wendy,31.01,2500,"26,706","77,525",32.91,64,6.127055788
+2020-11-16,REYN,Reynolds Consumer Products Inc.,Mitchell V Lance,29.86,16500,"16,500","492,639",29.05,64,-2.712659076
+2020-11-16,REYN,Reynolds Consumer Products Inc.,Cole Gregory Alan,29.81,3000,"3,000","89,425",29.05,64,-2.54948004
+2020-11-16,VRS,Verso Corp,Kirt Jeffrey E,9.71,10000,"28,341","97,147",12.4,64,27.70339856
+2020-11-16,STFC,State Auto Financial Corp,Stachura Paul M,16,5000,0,"80,000",18.53,64,15.8125
+2020-11-16,WHG,Westwood Holdings Group Inc,Frank Richard M,11.2,5584,"42,757","62,528",14.14,64,26.25
+2020-11-16,MPLN,Multiplan Corp,Klein Michael Stuart,7.11,700000,"29,422,711","4,977,420",7.63,64,7.313642757
+2020-11-16,VRS,Verso Corp,Nebel Randy J.,9.68,15000,"24,764","145,200",12.4,64,28.09917355
+2020-11-16,EEX,"Emerald Holding, Inc.",Gendel Mitchell,3.38,30000,"108,000","101,400",4.49,64,32.84023669
+2020-11-16,CLSD,"Clearside Biomedical, Inc.",Whitmore Bradford T,1.69,62000,"5,847,341","104,929",4.22,64,149.704142
+2020-11-16,EPD,Enterprise Products Partners L.P.,Teague Aj,19.05,1880,"2,090,936","35,812",22.99,64,20.6824147
+2020-11-13,SANW,S&w Seed Co,Mfp Partners LP,2.35,73294,"16,050,785","172,342",3.78,67,60.85106383
+2020-11-13,WSTG,"Wayside Technology Group, Inc.",Foster Dale Richard,20.77,2500,"49,099","51,936",18.89,67,-9.05151661
+2020-11-13,CORT,Corcept Therapeutics Inc,Baker G Leonard Jr,17.82,8083,"5,153,306","144,057",27.62,67,54.99438833
+2020-11-13,SYNL,Synalloy Corp,Privet Fund Management LLC,5.48,28090,"1,563,597","154,051",8.89,67,62.22627737
+2020-11-13,SAFE,Safehold Inc.,Istar Inc.,61,1065574,"34,771,261","65,000,014",73.72,67,20.85245902
+2020-11-13,PRTY,Party City Holdco Inc.,Creekmuir William S.,3.37,29412,"153,244","99,118",7.12,67,111.2759644
+2020-11-13,GSKY,"Greensky, Inc.",Zalik David,3.47,1105220,"65,492,863","3,834,119",5,67,44.09221902
+2020-11-13,GSKY,"Greensky, Inc.",Sheft Robert,3.47,1105220,"23,756,076","3,834,119",5,67,44.09221902
+2020-11-13,MYE,Myers Industries Inc,Foley William A,16.29,2500,"26,370","40,734",22.06,67,35.42050338
+2020-11-13,NR,Newpark Resources Inc,Howes Paul L,1.26,57500,"1,061,226","72,234",2.66,67,111.1111111
+2020-11-13,NHLD,National Holdings Corp,Asher Daniel,2.55,194051,"2,850,501","494,147",3.32,67,30.19607843
+2020-11-13,DXC,Dxc Technology Co,Fernandez Raul J,20.62,2415,"15,525","49,809",28.64,67,38.8942774
+2020-11-13,FBIZ,"First Business Financial Services, Inc.",Sanders Carol P,18.9,1375,"6,174","25,984",19.69,67,4.17989418
+2020-11-13,MFNC,Mackinac Financial Corp /mi/,Aspatore Walter J,12.23,2500,"34,120","30,575",13.82,67,13.00081766
+2020-11-13,GDYN,"Grid Dynamics Holdings, Inc.",Carney Lloyd,8.47,5900,"982,502","49,997",12.63,67,49.11452184
+2020-11-13,DCTH,"Delcath Systems, Inc.","Rosalind Advisors, Inc.",11.75,4000,"189,000","47,000",16.88,67,43.65957447
+2020-11-13,ACCO,Acco Brands Corp,Lombardi Ronald M.,6.83,50000,"50,000","341,745",8.67,67,26.93997072
+2020-11-13,CTG,Computer Task Group Inc,Helvey III James R,6.26,10000,"140,280","62,594",6.57,67,4.952076677
+2020-11-13,WSTG,"Wayside Technology Group, Inc.",Bryant Andrew S,20.55,2000,"7,105","41,100",18.89,67,-8.077858881
+2020-11-13,CPST,Capstone Turbine Corp,Jamison Darren,5.65,5800,"130,080","32,770",12,67,112.3893805
+2020-11-13,MPLN,Multiplan Corp,Klein Michael Stuart,6.6,741000,"28,722,711","4,887,636",7.63,67,15.60606061
+2020-11-13,CTG,Computer Task Group Inc,Klein David H,6.14,10000,"151,948","61,416",6.57,67,7.003257329
+2020-11-12,TESS,Tessco Technologies Inc,Martine-Dolecki Cathy-Ann,5.96,8293,"11,293","49,442",7.65,68,28.3557047
+2020-11-12,MN,"Manning & Napier, Inc.",Busheri Ebrahim,3.85,16008,"386,417","61,631",5.99,68,55.58441558
+2020-11-12,ADOC,Edoc Acquisition Corp.,American Physicians LLC,10,414000,"414,000","4,140,000",10.28,68,2.8
+2020-11-12,ADOC,Edoc Acquisition Corp.,Zhang Xiaoping Becky,10,414000,"414,000","4,140,000",10.28,68,2.8
+2020-11-12,CAR,"Avis Budget Group, Inc.","Srs Investment Management, LLC",35.83,149796,"18,198,424","5,366,544",38.51,68,7.47976556
+2020-11-12,TISI,Team Inc,Waters Louis A,8.1,50000,"239,396","405,000",11.47,68,41.60493827
+2020-11-12,FPAY,"Flexshopper, Inc.",Dvorkin Howard,1.63,43190,"2,603,095","70,560",3.17,68,94.47852761
+2020-11-12,GSKY,"Greensky, Inc.",Nagy Angela M,3.45,7500,"51,639","25,875",5,68,44.92753623
+2020-11-12,MFNC,Mackinac Financial Corp /mi/,Tobias Paul Davison,12.22,4000,"230,249","48,862",13.82,68,13.09328969
+2020-11-12,MS,Morgan Stanley,Olayan Hutham S,55.4,25000,"218,478","1,385,000",75.07,68,35.50541516
+2020-11-12,CTHR,Charles & Colvard Ltd,Sykes Ollin B,1.02,86724,"1,778,488","88,146",1.33,68,30.39215686
+2020-11-12,MACK,Merrimack Pharmaceuticals Inc,Levy Noah G.,3.65,56490,"611,015","205,912",8.13,68,122.739726
+2020-11-12,MACK,Merrimack Pharmaceuticals Inc,Andersen Eric,3.65,56490,"297,743","206,189",8.13,68,122.739726
+2020-11-12,BTN,"Ballantyne Strong, Inc.","Fundamental Global Investors, LLC",1.59,16441,"5,072,404","26,081",2.1,68,32.0754717
+2020-11-12,TISI,Team Inc,Waters Louis A,8.1,50000,"239,396","405,000",11.47,68,41.60493827
+2020-11-12,FXNC,First National Corp /va/,Smith Gerald F Jr,14.21,6002,"84,255","85,281",17.5,68,23.15270936
+2020-11-12,ANAT,American National Group Inc,Dummer Arthur Oleen,79.34,776,"7,100","61,565",97.01,68,22.27123771
+2020-11-12,OEC,Orion Engineered Carbons S.A.,Winkhaus Hans Dietrich,14.52,4816,"8,816","69,928",17.17,68,18.25068871
+2020-11-12,ATRS,"Antares Pharma, Inc.",Powell Fred M,2.85,16400,"646,465","46,740",4.34,68,52.28070175
+2020-11-12,EVC,Entravision Communications Corp,Vasquez Gilbert R,2.55,50000,"663,590","127,500",3.11,68,21.96078431
+2020-11-12,NRIM,Northrim Bancorp Inc,Swalling John C,33.15,800,"6,636","26,519",34.89,68,5.248868778
+2020-11-12,HBI,Hanesbrands Inc.,Nelson Ronald L,12.71,30000,"245,553","381,390",15.64,68,23.0527144
+2020-11-12,TIPT,Tiptree Inc.,Mielle Dominique,5.22,20000,"34,169","104,400",4.98,68,-4.597701149
+2020-11-12,CHSCP,Chs Inc,Riegel Steve Brian,29,1900,"1,900","55,100",29.56,68,1.931034483
+2020-11-11,NC,Nacco Industries Inc,Taplin Frank F,16.55,155595,"217,065","2,574,435",25.51,69,54.13897281
+2020-11-11,BBBY,Bed Bath & Beyond Inc,Schechter Joshua,19.86,1500,"21,016","29,798",26.89,69,35.39778449
+2020-11-11,NC,Nacco Industries Inc,Taplin Diahn,16.55,155595,"230,250","2,574,435",25.51,69,54.13897281
+2020-11-11,NC,Nacco Industries Inc,Taplin Britton T,16.55,155595,"230,250","2,574,435",25.51,69,54.13897281
+2020-11-11,HBB,Hamilton Beach Brands Holding Co,Taplin Britton T,13.8,155595,"221,441","2,146,519",17.94,69,30
+2020-11-11,HBB,Hamilton Beach Brands Holding Co,Taplin Frank F,13.8,155595,"215,140","2,146,519",17.94,69,30
+2020-11-11,HBB,Hamilton Beach Brands Holding Co,Taplin Diahn,13.8,155595,"221,441","2,146,519",17.94,69,30
+2020-11-11,CVCY,Central Valley Community Bancorp,Silva Dorothea D,14.97,3350,"4,759","50,155",16.15,69,7.88243153
+2020-11-11,PCB,Pcb Bancorp,Lee Sang Young,10.82,5565,"1,108,071","60,215",10.34,69,-4.436229205
+2020-11-11,SYNL,Synalloy Corp,Schauerman John P.,5.44,20000,"20,000","108,800",8.89,69,63.41911765
+2020-11-11,STKS,"One Group Hospitality, Inc.",Bullis Eugene M,2.99,15000,"180,363","44,813",4.02,69,34.44816054
+2020-11-11,EPZM,"Epizyme, Inc.",Goldfischer Carl,12.07,5000,"3,385,951","60,350",11.91,69,-1.325600663
+2020-11-11,OGE,Oge Energy Corp.,Sanner J. Michael,33.7,2000,"3,000","67,396",30.61,69,-9.169139466
+2020-11-11,HCI,"Hci Group, Inc.",Watts Susan,52.89,564,"3,816","29,832",54.05,69,2.193231235
+2020-11-11,APLE,"Apple Hospitality Reit, Inc.",Knight Glade M,12.11,5000,"10,495,826","60,556",12.85,69,6.110652353
+2020-11-11,ARLO,"Arlo Technologies, Inc.",McRae Matthew Blake,4.71,21000,"895,678","98,910",8.42,69,78.76857749
+2020-11-11,MTRX,Matrix Service Co,Miller James Harry,8.98,3000,"41,629","26,940",14.67,69,63.36302895
+2020-11-11,KAR,"Kar Auction Services, Inc.",Smith Mary Ellen,17.78,5000,"17,067","88,900",18.81,69,5.793025872
+2020-11-11,ARAY,Accuray Inc,Whitters Joseph E,3.46,50000,"243,078","173,135",4.95,69,43.06358382
+2020-11-11,MYGN,Myriad Genetics Inc,Phanstiel S. Louise,16.62,15000,"71,790","249,336",25.52,69,53.54993983
+2020-11-10,KDNY,"Chinook Therapeutics, Inc.",Dobmeier Eric,13.8,4500,"50,837","62,095",15.56,70,12.75362319
+2020-11-10,CNBKA,Century Bancorp Inc,Filler James J,76.65,911,"852,289","69,824",79.25,70,3.392041748
+2020-11-10,GTHX,"G1 Therapeutics, Inc.",Bailey John E. (Jack) Jr.,12.8,8000,"8,000","102,375",20.6,70,60.9375
+2020-11-10,CWH,"Camping World Holdings, Inc.",Malone Michael W,24.14,2070,"21,700","49,962",31.66,70,31.15161558
+2020-11-10,PI,Impinj Inc,Sylebra Capital Ltd,31.09,391743,"4,397,337","12,179,290",56.33,70,81.18366034
+2020-11-10,WSC,Willscot Mobile Mini Holdings Corp.,Goble Jeffrey S,21.15,12000,"63,233","253,800",27.11,70,28.17966903
+2020-11-10,THS,"Treehouse Foods, Inc.",Smith Gary Dale,36.74,2600,"9,600","95,524",38.66,70,5.225911813
+2020-11-10,JSDA,Jones Soda Co,Sirkin Clive M,0.17,1000000,"1,519,036","171,500",0.4,70,135.2941176
+2020-11-10,JSDA,Jones Soda Co,Norman Paul T,0.17,1000000,"1,265,152","171,500",0.4,70,135.2941176
+2020-11-10,UEPS,Net 1 Ueps Technologies Inc,Ball Antony C,3.12,583345,"10,738,310","1,820,036",4.64,70,48.71794872
+2020-11-10,UEPS,Net 1 Ueps Technologies Inc,Value Capital Partners (Pty) Ltd,3.12,583345,"10,738,310","1,820,036",4.64,70,48.71794872
+2020-11-10,FET,"Forum Energy Technologies, Inc.",Gaut C Christopher,8.61,20000,"243,861","172,223",15.06,70,74.91289199
+2020-11-10,CMCT,Cim Commercial Trust Corp,Shemesh Avraham,25,95214,"201,732","2,380,350",13.54,70,-45.84
+2020-11-10,CMCT,Cim Commercial Trust Corp,Ressler Richard S,25,95214,"201,732","2,380,350",13.54,70,-45.84
+2020-11-10,CMCT,Cim Commercial Trust Corp,Kuba Shaul,25,95214,"201,732","2,380,350",13.54,70,-45.84
+2020-11-10,CMCT,Cim Commercial Trust Corp,"Cim Capital, LLC",25,95214,"190,459","2,380,350",13.54,70,-45.84
+2020-11-10,LGF.B,Lions Gate Entertainment Corp /cn/,Crawford Gordon,8.31,200000,"981,566","1,661,801",11.59,70,39.47051745
+2020-11-10,MAXR,Maxar Technologies Inc.,Estes Howell M,23.14,2800,"74,021","64,782",46.65,70,101.5989628
+2020-11-10,MAXR,Maxar Technologies Inc.,Porter Biggs C,23.09,2000,"247,227","46,180",46.65,70,102.0355132
+2020-11-10,SPOK,"Spok Holdings, Inc",Cournoyer Christine,9.83,2833,"6,214","27,835",12.15,70,23.60122075
+2020-11-10,XAN,Exantas Capital Corp.,Jesberger Jaclyn,2.53,9940,"17,940","25,148",4.08,70,61.26482213
+2020-11-10,TCBI,Texas Capital Bancshares Inc/tx,Stallings Robert W,52.65,4000,"17,972","210,600",68.35,70,29.81956315
+2020-11-10,VRTX,Vertex Pharmaceuticals Inc / Ma,Sachs Bruce I,217.36,15000,"26,210","3,260,465",226.59,70,4.246411483
+2020-11-10,VRAY,"Viewray, Inc.",Drake Scott William,3.23,155000,"3,662,310","499,906",5.72,70,77.08978328
+2020-11-10,CALX,"Calix, Inc",Listwin Donald J,22.53,20000,"1,077,477","450,560",32.53,70,44.38526409
+2020-11-10,Y,Alleghany Corp /de,Jacobs Kerry J,639.74,50,949,"31,987",610,70,-4.64876356
+2020-11-10,CDTX,"Cidara Therapeutics, Inc.",Stein Jeffrey,2,50000,"621,489","100,015",2.41,70,20.5
+2020-11-10,CDTX,"Cidara Therapeutics, Inc.",Levine James E.,2.01,50000,"115,834","100,720",2.41,70,19.90049751
+2020-11-10,VICI,Vici Properties Inc.,Abrahamson James R,23.92,5100,"101,363","121,992",25.21,70,5.392976589
+2020-11-10,NEWR,"New Relic, Inc.",Henshall David J,54.74,4750,"4,750","260,009",77.1,70,40.84764341
+2020-11-10,PRAX,"Praxis Precision Medicines, Inc.",Souza Marcio,26.08,3846,"24,450","100,304",59.25,70,127.1855828
+2020-11-10,TUP,Tupperware Brands Corp,Goudis Richard,28.64,27500,"27,500","787,600",33.43,70,16.72486034
+2020-11-10,CRC,California Resources Corp,Stevens Todd A.,12.36,2500,"2,500","30,888",25.04,70,102.5889968
+2020-11-09,MGEN,"Miragen Therapeutics, Inc.",Logos Global Master Fund LP,4.76,476667,"550,000","2,270,484",25.08,71,426.8907563
+2020-11-09,DVCR,"Diversicare Healthcare Services, Inc.","Osmium Partners, LLC",3.68,25119,"608,101","92,385",4.2,71,14.13043478
+2020-11-09,PBFX,Pbf Logistics LP,Control Empresarial De Capitales S.A. De C.V.,8.37,25000,"7,196,058","209,183",10.49,71,25.32855436
+2020-11-09,CORT,Corcept Therapeutics Inc,Baker G Leonard Jr,17.76,18786,"5,145,223","333,648",27.62,71,55.51801802
+2020-11-09,ARVN,"Arvinas, Inc.",Kennedy Edward Moore Jr.,23.99,8333,"42,718","199,909",86.94,71,262.4010004
+2020-11-09,CERE,"Cerevel Therapeutics Holdings, Inc.",Bain Capital Investors LLC,10.3,332293,"60,632,356","3,422,618",15,71,45.63106796
+2020-11-09,CERE,"Cerevel Therapeutics Holdings, Inc.",Koppel Adam,10.3,332293,"60,632,356","3,422,618",15,71,45.63106796
+2020-11-09,CERE,"Cerevel Therapeutics Holdings, Inc.",Gordon Christopher R,10.3,332293,"60,632,356","3,422,618",15,71,45.63106796
+2020-11-09,ANIP,Ani Pharmaceuticals Inc,Walsh Patrick D,25.96,5000,"35,096","129,800",31.87,71,22.76579353
+2020-11-09,CYCN,"Cyclerion Therapeutics, Inc.",Busch Andreas,2.53,125000,"254,704","316,250",3.48,71,37.54940711
+2020-11-09,HZN,Horizon Global Corp,Kennedy John C,6.14,20000,"741,917","122,757",9.04,71,47.23127036
+2020-11-09,FXNC,First National Corp /va/,Smith Gerald F Jr,14.45,6711,"78,253","96,965",17.5,71,21.10726644
+2020-11-09,SABR,Sabre Corp,Mandel Gail,8.97,6000,"34,571","53,830",12.38,71,38.01560758
+2020-11-09,CWH,"Camping World Holdings, Inc.",Adams Stephen,24.55,200000,"249,954","4,909,600",31.66,71,28.96130346
+2020-11-09,AAT,"American Assets Trust, Inc.",Rady Ernest S,25.72,54994,"10,160,522","1,414,436",28.73,71,11.7029549
+2020-11-09,MTEM,"Molecular Templates, Inc.",Biotech Target N V,9.1,160000,"5,935,331","1,456,616",11.26,71,23.73626374
+2020-11-09,BGSF,"Bg Staffing, Inc.",Baum Richard L Jr,10,5000,"74,854","50,000",13.78,71,37.8
+2020-11-09,NUVA,Nuvasive Inc,Capps Vickie L,48.23,2000,"2,000","96,460",58.04,71,20.34003732
+2020-11-09,FNWB,First Northwest Bancorp,Deines Matthew,13.8,2000,"62,000","27,600",16.84,71,22.02898551
+2020-11-09,HBI,Hanesbrands Inc.,Nelson Ronald L,12.73,50000,"215,553","636,600",15.64,71,22.85938727
+2020-11-09,UFCS,United Fire Group Inc,Woolstenhulme Micah G,21.75,2500,"11,893","54,375",31.12,71,43.08045977
+2020-11-09,PRGO,Perrigo Co Plc,Classon Rolf A,46.75,2137,"10,870","99,898",44.72,71,-4.342245989
+2020-11-06,SUP,Superior Industries International Inc,Abulaban Majdi,2.2,99331,"354,948","218,528",5.54,74,151.8181818
+2020-11-06,CORT,Corcept Therapeutics Inc,Baker G Leonard Jr,17.98,13500,"5,126,437","242,665",27.62,74,53.61512792
+2020-11-06,AON,Aon Plc,Bruno John G,186.46,1000,"69,685","186,460",206.32,74,10.65107798
+2020-11-06,MED,Medifast Inc,Brown Jeffrey J,160.38,198,"28,333","31,792",214.72,74,33.88203018
+2020-11-06,XRX,Xerox Holdings Corp,Icahn Carl C,18.99,243198,"28,769,235","4,618,330",22.83,74,20.22116904
+2020-11-06,VPG,"Vishay Precision Group, Inc.",Cummins Wes,26.83,10000,"113,968","268,258",35.26,74,31.42005218
+2020-11-06,CVX,Chevron Corp,Frank John,71.3,500,"10,448","35,651",94.22,74,32.14586255
+2020-11-06,PSN,Parsons Corp,Ball George L.,30.25,20000,"138,113","605,000",38.72,74,28
+2020-11-06,SMMT,Summit Therapeutics Inc.,Duggan Robert W,3.34,14071856,"56,296,533","46,999,999",5.3,74,58.68263473
+2020-11-06,PEB,Pebblebrook Hotel Trust,Bortz Jon E,20.95,17227,"53,917","360,958",20.53,74,-2.00477327
+2020-11-06,CINF,Cincinnati Financial Corp,Debbink Dirk J,74.84,500,"37,833","37,420",93.48,74,24.90646713
+2020-11-04,HTLF,Heartland Financial USA Inc,Fuller Lynn B,32.18,2000,"1,516,969","64,360",44.59,76,38.56432567
+2020-10-30,SONA,Southern National Bancorp of Virginia Inc,Stafford Clinton Tyler,9.66,8800,"10,150","85,008",12.19,81,26.19047619
+2020-10-30,CFX,Colfax Corp,Shirley Brady,26.95,10000,"62,226","269,468",39.18,81,45.38033395
+2020-10-30,GATO,"Gatos Silver, Inc.",Stairs Janice,7,10000,"10,729","70,000",14.28,81,104
+2020-10-29,TCON,"Tracon Pharmaceuticals, Inc.","Ikarian Capital, LLC",5.1,34000,"2,196,549","173,269",10.97,82,115.0980392
+2020-10-16,BPSR,"Organicell Regenerative Medicine, Inc.",Meglin Allen James,0.08,625000,"13,589,180","50,000",0.1,95,25
+2020-09-25,ICCT,Icoreconnect Inc.,Desanti Robert A,0.05,505218,"8,694,784","26,337",0.09,116,80
+2020-09-11,ELYS,"Elys Game Technology, Corp.",Ciavarella Michele,1.7,132023,"4,399,966","223,806",6.5,130,282.3529412
+2020-08-14,DCT,"Duck Creek Technologies, Inc.",Pelzer Francis J.,27,10000,"124,028","270,000",47.03,158,74.18518519
+2020-08-14,DCT,"Duck Creek Technologies, Inc.",Nicoll Stuart,27,12000,"12,000","324,000",47.03,158,74.18518519
+2020-08-14,DCT,"Duck Creek Technologies, Inc.",Moran Charles E,27,13200,"134,615","356,400",47.03,158,74.18518519
+2020-08-14,DCT,"Duck Creek Technologies, Inc.",Jackowski Michael A.,27,5500,"1,384,404","148,500",47.03,158,74.18518519
+2020-08-14,DCT,"Duck Creek Technologies, Inc.",Huston Eva F.,27,5700,"51,070","153,900",47.03,158,74.18518519
+2020-08-14,DCT,"Duck Creek Technologies, Inc.",Foster Matthew R.,27,14750,"741,833","398,250",47.03,158,74.18518519
+2020-08-14,DCT,"Duck Creek Technologies, Inc.",Crusco Kathleen M,27,9250,"42,563","249,750",47.03,158,74.18518519
+2020-08-14,DCT,"Duck Creek Technologies, Inc.",Chippari Vincent A,27,2000,"604,816","54,000",47.03,158,74.18518519
+2020-08-07,GDOT,Green Dot Corp,Date Rajeev V,51.65,5000,"19,854","258,250",54.22,165,4.975798645
+2020-07-07,NLTX,"Neoleukin Therapeutics, Inc.",Baker Bros. Advisors LP,15.25,424000,"3,506,211","6,466,000",13.13,196,-13.90163934
+2020-06-11,AVTR,"Avantor, Inc.",Natauri Jo,17.25,15199,"58,861,148","262,243",28.7,222,66.37681159
+2020-06-11,AVTR,"Avantor, Inc.",Goldman Sachs & Co. LLC,17.25,15199,"58,861,148","262,243",28.7,222,66.37681159
+2020-05-14,NCBS,Nicolet Bankshares Inc,Weyers Robert J,46.61,1930,"108,221","89,957",71.52,250,53.44346707
+2020-05-13,NCBS,Nicolet Bankshares Inc,Weyers Robert J,46.81,2070,"106,291","96,897",71.52,251,52.78786584
+2020-04-07,ZNTL,"Zentalis Pharmaceuticals, Inc.",Johnson David Michael,18,4000,"101,752","72,000",50.6,287,181.1111111
+2020-04-07,ZNTL,"Zentalis Pharmaceuticals, Inc.","Epperly Melissa B,",18,20000,"294,446","360,000",50.6,287,181.1111111
+2020-03-13,FCNCA,First Citizens Bancshares Inc /de/,Holding Olivia Britton,20.82,118945,"1,614,227","2,476,482",628.1,312,2916.810759
+2020-03-13,FCNCA,First Citizens Bancshares Inc /de/,Bryant Hope Holding,20.82,118945,"1,354,562","2,476,482",628.1,312,2916.810759
+2020-03-12,SBGI,Sinclair Broadcast Group Inc,Friedman Howard E,17.46,1695,"25,285","29,603",33.2,313,90.1489118
+2020-03-10,NSIT,Insight Enterprises Inc,Ebermann Wolfgang,50.32,1000,"43,549","50,320",79.33,315,57.65103339
+2020-03-09,UMBF,Umb Financial Corp,Kemper Alexander C,48.78,1000,"13,072","48,783",74.47,316,52.66502665
+2019-12-13,SPT,"Sprout Social, Inc.",Goldman Sachs Group Inc,23.21,91700,"7,351,746","2,128,130",55.77,403,140.2843602
+2019-12-13,SPT,"Sprout Social, Inc.","Mbd Advisors, L.L.C.",23.21,91700,"7,351,746","2,128,130",55.77,403,140.2843602
+2019-12-13,SPT,"Sprout Social, Inc.",Kreuziger Jason,23.21,91700,"7,351,746","2,128,130",55.77,403,140.2843602
+2019-12-10,TACO,"Del Taco Restaurants, Inc.",Aptman Eileen A.,7.4,88952,"1,240,754","658,556",9.91,406,33.91891892
+2019-08-19,ESTA,Establishment Labs Holdings Inc.,Lewin Nicholas Sheridan,20.11,2700,"780,463","54,289",48.08,519,139.0850323
+2018-11-14,MNKD,Mannkind Corp,Galindo Alejandro,2.89,34602,"398,602","100,000",3.31,797,14.53287197
+2017-03-03,PSTG,"Pure Storage, Inc.",Dietzen Scott,9.46,52400,"55,341","495,767",23.34,1418,146.7230444
