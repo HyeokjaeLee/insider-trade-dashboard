@@ -1,5 +1,9 @@
-# Getting Started with Create React App
+<h1 align="center">Insider-Trade Dashboard 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.1.3-blue.svg?cacheSeconds=2592000" />
+</p>
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 =======
@@ -7,20 +11,36 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 > and showed to dashboards
 > 내부자 거래정보를 통해 AI가 예측한 주식 정보를 대쉬보드에 보여줌<br>
 >>>>>>> parent of f3267a0... Update README.md
+=======
+> AI predicts stock information based on insider trading information<br>
+> and showed to dashboards<br>
+> 내부자 거래정보를 통해 AI가 예측한 주식 정보를 대쉬보드에 보여줌<br>
+>>>>>>> parent of 9531fc8... Add files via upload
 
-## Available Scripts
+### [✨ Demo](https://hyeokjaelee.github.io/insider-trade-dashboard)
 
-In the project directory, you can run:
+## Author
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ### `npm start`
+=======
+- 👤 **HyeokjaeLee(Nagle)**
+  - Github: [@HyeokjaeLee](https://github.com/HyeokjaeLee)
+- Team Leader
+- Full Code Management
+- Back-end & Develop required tools
+>>>>>>> parent of 9531fc8... Add files via upload
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- 👤 **minhonoh**
+  - Github: [@minhonoh](https://github.com/minhonoh)
+- AI algorithms part
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- 👤 **HwanHee97**
+  - Github: [@HwanHee97](https://github.com/HwanHee97)
+- AI algorithms part
 
+<<<<<<< HEAD
 ### `npm test`
 =======
 👤 **HyeokjaeLee(Nagle)**
@@ -45,23 +65,33 @@ You will also see any lint errors in the console.
 - Front-end
 - Github: [@suyong5713](https://github.com/suyong5713)
 >>>>>>> parent of f3267a0... Update README.md
+=======
+- 👤 **suyong5713**
+  - Github: [@suyong5713](https://github.com/suyong5713)
+- Front-end
+>>>>>>> parent of 9531fc8... Add files via upload
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Used
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 ### `npm run build`
 =======
 - [Heroku](https://www.heroku.com)
+=======
+>>>>>>> parent of 9531fc8... Add files via upload
 - Node.js
   - React
 - API
   - [Insider-Trade-API](https://toy-projects-api.herokuapp.com/insidertrade/list)
+<<<<<<< HEAD
 >>>>>>> parent of f3267a0... Update README.md
+=======
+>>>>>>> parent of 9531fc8... Add files via upload
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## To-Do
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
@@ -91,3 +121,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
   - [x] add insider-trade-api(ver 1.2.0)<br>
   - [x] add stock-info(ver 1.3.0)<br>
 >>>>>>> parent of f3267a0... Update README.md
+=======
+- [x] Create base react project<br>
+>>>>>>> parent of 9531fc8... Add files via upload
