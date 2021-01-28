@@ -1,24 +1,24 @@
 /*1*/ 
-// //모델환경새팅
-// const config = {
-//     hiddenLayers: [3],
-//     activation: 'sigmoid',
-//     };
-// //네트워크생성
-// const brain = require("brain.js");
-// const net = new brain.NeuralNetwork(config);
+//모델환경새팅
+const config = {
+    hiddenLayers: [3],
+    activation: 'sigmoid',
+    };
+//네트워크생성
+const brain = require("brain.js");
+const net = new brain.NeuralNetwork(config);
 
-// //학습시작
-// net.train([
-//     {input: [0, 0], output: [0]},
-//     {input: [0, 1], output: [1]},
-//     {input: [1, 0], output: [1]},
-//     {input: [1, 1], output: [0]}]);
+//학습시작
+net.train([
+    {input: [0, 0], output: [0]},
+    {input: [0, 1], output: [1]},
+    {input: [1, 0], output: [1]},
+    {input: [1, 1], output: [0]}]);
 
-// console.log(net.run([0,0]));
-// console.log(net.run([1,0]));
-// console.log(net.run([0,1]));
-// console.log(net.run([1,1]));
+console.log(net.run([0,0]));
+console.log(net.run([1,0]));
+console.log(net.run([0,1]));
+console.log(net.run([1,1]));
 /*2*/ 
 // const brain = require("brain.js");
 // const net = new brain.recurrent.LSTMTimeStep({
