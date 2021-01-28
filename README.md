@@ -37,11 +37,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - Front-end
 - Github: [@suyong5713](https://github.com/suyong5713)
-
-- 👤 **suyong5713**
-- Github: [@suyong5713](https://github.com/suyong5713)
-- Front-end
-
 ## Used
 
 - [Heroku](https://www.heroku.com)
