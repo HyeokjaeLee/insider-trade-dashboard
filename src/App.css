@@ -41,6 +41,7 @@
   display: flex;
   width: 80%;
   float: left;
+  padding-top: 100px;
 }
 ul {
   list-style: none;
