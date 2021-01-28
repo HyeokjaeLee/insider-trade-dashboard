@@ -16,20 +16,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Author
 
-- 👤 **HyeokjaeLee(Nagle)**
-  - Github: [@HyeokjaeLee](https://github.com/HyeokjaeLee)
-- Team Leader
-- Full Code Management
-- Back-end & Develop required tools
-
-- 👤 **minhonoh**
-  - Github: [@minhonoh](https://github.com/minhonoh)
-- AI algorithms part
-
-- 👤 **HwanHee97**
-  - Github: [@HwanHee97](https://github.com/HwanHee97)
-- AI algorithms part
-
 👤 **HyeokjaeLee(Nagle)**
 
 - Team Leader
