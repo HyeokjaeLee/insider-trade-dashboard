@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+let url="https://toy-projects-api.herokuapp.com/insidertrade/ATHA";
+const request = new XMLHttpRequest();
+request.open('GET', url, true);
+request.onload = function () {
+  console.log(request.responseText); // 긁어온 내용 뿌리기
+};
+request.send();
+
+    </script>
+    
+</body>
+</html>
