@@ -7,14 +7,14 @@ const Stock_list_button = (props: any) => {
   const stock_item = (list_data: any) => {
     return (
       <>
-        <Button>
-          <ul>
-            <li>
-              <h4>{list_data.ticker}</h4>
-            </li>
-            <li>{getFormatDate(list_data.trade_date, "-")}</li>
+        <Button><a onClick={() => props.onclick_fn(list_data)}>
+          <ul>  
+            <li><h4>{list_data.ticker}</h4></li>
             <li>{list_data.company_name}</li>
+            <li><h6>{list_data.insider_name}</h6></li>
+            <li>{getFormatDate(list_data.trade_date, "-")}</li>
           </ul>
+          </a>
         </Button>
       </>
     );
