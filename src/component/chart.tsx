@@ -6,14 +6,11 @@ import { getFormatDate } from "../modules/base_modules";
 const Chart = (props: any) => {
   const stock_data = props.stock_data;
   //const [stock_data,set_stock_data] = useState(props.stock_data);
-  const chart_data = stock_data.map((stock_data: any) => [new Date(stock_data.date).getTime(), stock_data.close]);
-  
+  const chart_data = stock_data.map((stock_data: any) => [new Date(stock_data.date).getTime(),stock_data.close]);
+  console.log(chart_data);
   const trade_data = props.trade_data;
   //price_data.push([new Date(trade_data.trade_date).getTime, trade_data.price]);
-  const [data, set_data] = useState<any>(chart_data);
-  console.log("--------------------");
-  console.log(data);
-  console.log("--------------------");
+  
   //price.push(trade_data.price);
   //date.push(trade_date);
   
@@ -53,7 +50,7 @@ const Chart = (props: any) => {
         },
       },
     },
-    series: [{ name: trade_data.company_name, data: data }],
+    series: [{ name: trade_data.company_name, data: chart_data }],
   };
   return (
     <div className="chart">
