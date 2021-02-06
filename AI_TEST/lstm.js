@@ -8,12 +8,17 @@
 // const brain = require("brain.js");
 // const net = new brain.NeuralNetwork(config);
 
+// const IN =[[0,0],[0,1],[1,0],[1,1]];
+// const OUT = [[0],[1],[1],[0]];
 // //학습시작
-// net.train([
-//     {input: [0, 0], output: [0]},
-//     {input: [0, 1], output: [1]},
-//     {input: [1, 0], output: [1]},
-//     {input: [1, 1], output: [0]}]);
+// // net.train([
+// //     {input: [0, 0], output: [0]},
+// //     {input: [0, 1], output: [1]},
+// //     {input: [1, 0], output: [1]},
+// //     {input: [1, 1], output: [0]}]);
+// net.train([{
+//     input:IN,output:OUT
+// }]);
 
 // console.log(net.run([0,0]));
 // console.log(net.run([1,0]));
@@ -21,22 +26,30 @@
 // console.log(net.run([1,1]));
 
 /*2*/ 
-// const brain = require("brain.js");
-// const net = new brain.recurrent.LSTMTimeStep({
-//     inputSize: 2,
-//     hiddenLayers: [10],
-//     outputSize: 2,
-//   }); 
+let A=[[1, 3],
+[2, 2],
+[3, 1],
+[4,2]];
+// A.pop();
+// console.log(A);
+const brain = require("brain.js");
+const net = new brain.recurrent.LSTMTimeStep({
+    inputSize: 2,
+    hiddenLayers: [10],
+    outputSize: 2,
+  }); 
 //   net.train([
 //     [1, 3],
 //     [2, 2],
 //     [3, 1],
 //   ]);
-//   const output = net.run([
-//     [1, 3],
-//     [2, 2],
-//   ]); // [3, 1]
-//   console.log(output);
+net.train(A);
+  const output = net.run([
+    [1, 3],
+    [2, 2],
+    [3, 1]
+  ]); // [3, 1]
+  console.log(output);
 
 /*3*/ 
 // const brain = require("brain.js");
@@ -50,11 +63,15 @@
 // console.log(output);
 
 
-/*4*/
-var X_train;
-var Y_train;
 
-var data=[[1,1],[2,2],[3,3]];
+// var X_train;
+// var Y_train;
+
+// var data=[[1,1],[2,2],[3,3]];  
+// data.length=data.length-1;
+// console.log(data);
+
+/*4*/
  //var data=[1, 2, 1,3,4,3,5,6,5,7,8,7,9,10,9];
 // const brain = require("brain.js");
 // const net = new brain.recurrent.LSTMTimeStep();
@@ -64,8 +81,7 @@ var data=[[1,1],[2,2],[3,3]];
 // });
 // const output = net.run([1,2,1,3,4]); // 4
 // console.log(output);
-    X_train.data.length=data.length-1;
-    console.log(X_train);
+  
 /*사이트 값 가져오기*/ 
 //방법1
 // const http = require('https'); // http 모듈 불러오기(설치 해야함 https모듈)
