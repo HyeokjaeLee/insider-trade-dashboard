@@ -1,9 +1,9 @@
 import React, { Component, Fragment, useState } from "react";
-import Highcharts from "highcharts";
+import Highcharts from "highcharts/highstock";
 import HighchartsReact from "highcharts-react-official";
 import { getFormatDate } from "../modules/base_modules";
-
-const Chart = (props: any) => {
+     
+function Chart (props: any){
   const stock_data = props.stock_data;
   //const [stock_data,set_stock_data] = useState(props.stock_data);
   const chart_data = stock_data.map((stock_data: any) => [new Date(stock_data.date).getTime(),stock_data.close]);
@@ -28,6 +28,7 @@ const Chart = (props: any) => {
     credits: {
       enabled: false,
     },
+    
     xAxis: {
       margin: 15,
       type: "datetime",
@@ -52,10 +53,11 @@ const Chart = (props: any) => {
     },
     series: [{ name: trade_data.company_name, data: chart_data }],
   };
+  
   return (
     <div className="chart">
       <Fragment>
-        <HighchartsReact highcharts={Highcharts} options={options} />
+        <HighchartsReact highcharts={Highcharts}  constructorType={'stockChart'} options={options} />
       </Fragment>
     </div>
   );

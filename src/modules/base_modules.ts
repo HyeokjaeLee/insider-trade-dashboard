@@ -1,6 +1,10 @@
+import { trackPromise } from 'react-promise-tracker';
+
 const get_json_data = (url: string) => {
+  
   let xmlhttp = new XMLHttpRequest();
   let json_data: any;
+   
   xmlhttp.onreadystatechange = () => {
     if (xmlhttp.readyState == 4 && xmlhttp.status == 200) {
       try {

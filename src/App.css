@@ -29,6 +29,9 @@
   font-size: calc(10px + 2vmin);
   width: 100%;
 }
+span{
+  color: white;
+}
 .chart {
   padding: 50px;
   width: auto;
@@ -40,7 +43,7 @@
 .chart_container {
   display: flex;
   width: 80%;
-  float: left;
+  float: top;
   padding-top: 100px;
 }
 ul {
@@ -53,7 +56,13 @@ li {
 .App-link {
   color: #61dafb;
 }
-
+.spinner-border{
+  margin-top: 20px;
+}
+.load_text{
+  margin-top: 10px;
+  margin-left: 10px;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
