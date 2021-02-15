@@ -18,12 +18,9 @@ function Chart (props: any){
     chart: {
       type: "line",
       inverted: false,
-      scrollablePlotArea: {
-        minWidth: 4000,
-      },
     },
     title: {
-      text: "Stock Chart",
+      text: trade_data.company_name,
     },
     credits: {
       enabled: false,
@@ -42,6 +39,20 @@ function Chart (props: any){
     legend: {
       reversed: true,
     },
+    navigator:{
+      height: 60,
+      minWidth:4000,
+      handles:{
+        backgroundColor: 'gray',
+        borderColor:'#02343f'
+      },
+      series: { data: chart_data },
+    },
+    
+    rangeSelector: {
+      selected: 5,
+      inputEnabled:false
+  },
     plotOptions: {
       series: {
         stacking: "normal",
