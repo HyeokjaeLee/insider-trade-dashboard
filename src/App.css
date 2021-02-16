@@ -21,6 +21,7 @@
   overflow: scroll;
   float: left;
   padding-right: 10px;
+  
 }
 .body_div {
   background-color: #282c34;
@@ -43,8 +44,9 @@ span{
 .chart_container {
   display: flex;
   width: 80%;
+  height: 60%;
   float: top;
-  padding-top: 100px;
+  
 }
 ul {
   list-style: none;
@@ -63,6 +65,16 @@ li {
   margin-top: 10px;
   margin-left: 10px;
 }
+.search{
+  margin-bottom: 15px;
+  margin-top: 15px;
+  margin-left: 15px;
+  height: 40px;
+}
+.top_bar_search_box{
+  margin: 15px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

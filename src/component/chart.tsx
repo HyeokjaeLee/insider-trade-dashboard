@@ -4,10 +4,12 @@ import HighchartsReact from "highcharts-react-official";
 import { getFormatDate } from "../modules/base_modules";
      
 function Chart (props: any){
-  const stock_data = props.stock_data;
+  const stock_data = props.stock_data;//baseURL + ticker API
   //const [stock_data,set_stock_data] = useState(props.stock_data);
-  const chart_data = stock_data.map((stock_data: any) => [new Date(stock_data.date).getTime(),stock_data.close]);
-  console.log(chart_data);
+  
+  const chart_data = stock_data.data.map((stock_data: any) => [new Date(stock_data.date).getTime(),stock_data.close]);
+  
+
   const trade_data = props.trade_data;
   //price_data.push([new Date(trade_data.trade_date).getTime, trade_data.price]);
   
