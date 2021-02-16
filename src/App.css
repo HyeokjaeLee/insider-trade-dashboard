@@ -21,6 +21,7 @@
   overflow: scroll;
   float: left;
   padding-right: 10px;
+  
 }
 .body_div {
   background-color: #282c34;
@@ -28,6 +29,9 @@
   color: #02343f;
   font-size: calc(10px + 2vmin);
   width: 100%;
+}
+span{
+  color: white;
 }
 .chart {
   padding: 50px;
@@ -40,8 +44,9 @@
 .chart_container {
   display: flex;
   width: 80%;
-  float: left;
-  padding-top: 100px;
+  height: 60%;
+  float: top;
+  
 }
 ul {
   list-style: none;
@@ -52,6 +57,22 @@ li {
 }
 .App-link {
   color: #61dafb;
+}
+.spinner-border{
+  margin-top: 20px;
+}
+.load_text{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+.search{
+  margin-bottom: 15px;
+  margin-top: 15px;
+  margin-left: 15px;
+  height: 40px;
+}
+.top_bar_search_box{
+  margin: 15px;
 }
 
 @keyframes App-logo-spin {

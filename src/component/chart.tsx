@@ -1,31 +1,33 @@
 import React, { Component, Fragment, useState } from "react";
-import Highcharts from "highcharts";
+import Highcharts from "highcharts/highstock";
 import HighchartsReact from "highcharts-react-official";
 import { getFormatDate } from "../modules/base_modules";
+     
+function Chart (props: any){
+  const stock_data = props.stock_data;//baseURL + ticker API
+  //const [stock_data,set_stock_data] = useState(props.stock_data);
+  
+  const chart_data = stock_data.data.map((stock_data: any) => [new Date(stock_data.date).getTime(),stock_data.close]);
+  
 
-const Chart = (props: any) => {
-  const stock_data = props.stock_data;
-  const price_data = stock_data.map((stock_data: any) => [new Date(stock_data.date).getTime(), stock_data.close]);
   const trade_data = props.trade_data;
   //price_data.push([new Date(trade_data.trade_date).getTime, trade_data.price]);
-  const [data, set_data] = useState<any>(price_data);
+  
   //price.push(trade_data.price);
   //date.push(trade_date);
-  console.log(data);
+  
   const options = {
     chart: {
       type: "line",
       inverted: false,
-      scrollablePlotArea: {
-        minWidth: 4000,
-      },
     },
     title: {
-      text: "Stock Chart",
+      text: trade_data.company_name,
     },
     credits: {
       enabled: false,
     },
+    
     xAxis: {
       margin: 15,
       type: "datetime",
@@ -39,6 +41,20 @@ const Chart = (props: any) => {
     legend: {
       reversed: true,
     },
+    navigator:{
+      height: 60,
+      minWidth:4000,
+      handles:{
+        backgroundColor: 'gray',
+        borderColor:'#02343f'
+      },
+      series: { data: chart_data },
+    },
+    
+    rangeSelector: {
+      selected: 5,
+      inputEnabled:false
+  },
     plotOptions: {
       series: {
         stacking: "normal",
@@ -48,15 +64,17 @@ const Chart = (props: any) => {
         },
       },
     },
-    series: [{ name: trade_data.company_name, data: data }],
+    series: [{ name: trade_data.company_name, data: chart_data }],
   };
+  
   return (
     <div className="chart">
       <Fragment>
-        <HighchartsReact highcharts={Highcharts} options={options} />
+        <HighchartsReact highcharts={Highcharts}  constructorType={'stockChart'} options={options} />
       </Fragment>
     </div>
   );
 };
 
 export default Chart;
+
