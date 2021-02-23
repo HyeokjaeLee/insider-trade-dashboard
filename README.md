@@ -59,3 +59,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - [x] create base react project<br>
 - [x] create new base code(ver 0.2.0)<br>
+- [ ] modify Chart Rendering Bug<br>
