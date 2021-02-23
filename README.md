@@ -1,6 +1,6 @@
 <h1 align="center">Insider-Trade Dashboard 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.2.1-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-0.3.1-blue.svg?cacheSeconds=2592000" />
 </p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -15,6 +15,20 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### [✨ Demo](https://hyeokjaelee.github.io/insider-trade-dashboard)
 
 ## Author
+
+- 👤 **HyeokjaeLee(Nagle)**
+  - Github: [@HyeokjaeLee](https://github.com/HyeokjaeLee)
+- Team Leader
+- Full Code Management
+- Back-end & Develop required tools
+
+- 👤 **minhonoh**
+  - Github: [@minhonoh](https://github.com/minhonoh)
+- AI algorithms part
+
+- 👤 **HwanHee97**
+  - Github: [@HwanHee97](https://github.com/HwanHee97)
+- AI algorithms part
 
 👤 **HyeokjaeLee(Nagle)**
 
@@ -37,6 +51,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - Front-end
 - Github: [@suyong5713](https://github.com/suyong5713)
+
+- 👤 **suyong5713**
+  - Github: [@suyong5713](https://github.com/suyong5713)
+- Front-end
+
 ## Used
 
 - [Heroku](https://www.heroku.com)
