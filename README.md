@@ -37,11 +37,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Back-end & Develop required tools
 - Github: [@HyeokjaeLee](https://github.com/HyeokjaeLee)
 
-👤 **minhonoh**
-
-- AI algorithms part
-- Github: [@minhonoh](https://github.com/minhonoh)
-
 👤 **HwanHee97**
 
 - AI algorithms part
